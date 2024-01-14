@@ -1,0 +1,13 @@
+C:\DSA Practice\LCInvertTree\obj\Debug\netcoreapp3.1\LCInvertTree.csprojAssemblyReference.cache
+C:\DSA Practice\LCInvertTree\obj\Debug\netcoreapp3.1\LCInvertTree.AssemblyInfoInputs.cache
+C:\DSA Practice\LCInvertTree\obj\Debug\netcoreapp3.1\LCInvertTree.AssemblyInfo.cs
+C:\DSA Practice\LCInvertTree\obj\Debug\netcoreapp3.1\LCInvertTree.csproj.CoreCompileInputs.cache
+C:\DSA Practice\LCInvertTree\bin\Debug\netcoreapp3.1\LCInvertTree.exe
+C:\DSA Practice\LCInvertTree\bin\Debug\netcoreapp3.1\LCInvertTree.deps.json
+C:\DSA Practice\LCInvertTree\bin\Debug\netcoreapp3.1\LCInvertTree.runtimeconfig.json
+C:\DSA Practice\LCInvertTree\bin\Debug\netcoreapp3.1\LCInvertTree.runtimeconfig.dev.json
+C:\DSA Practice\LCInvertTree\bin\Debug\netcoreapp3.1\LCInvertTree.dll
+C:\DSA Practice\LCInvertTree\bin\Debug\netcoreapp3.1\LCInvertTree.pdb
+C:\DSA Practice\LCInvertTree\obj\Debug\netcoreapp3.1\LCInvertTree.dll
+C:\DSA Practice\LCInvertTree\obj\Debug\netcoreapp3.1\LCInvertTree.pdb
+C:\DSA Practice\LCInvertTree\obj\Debug\netcoreapp3.1\LCInvertTree.genruntimeconfig.cache

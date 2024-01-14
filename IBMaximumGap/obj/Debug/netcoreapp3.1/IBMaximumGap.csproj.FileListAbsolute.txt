@@ -1,0 +1,13 @@
+C:\IBMaximumGap\bin\Debug\netcoreapp3.1\IBMaximumGap.exe
+C:\IBMaximumGap\bin\Debug\netcoreapp3.1\IBMaximumGap.deps.json
+C:\IBMaximumGap\bin\Debug\netcoreapp3.1\IBMaximumGap.runtimeconfig.json
+C:\IBMaximumGap\bin\Debug\netcoreapp3.1\IBMaximumGap.runtimeconfig.dev.json
+C:\IBMaximumGap\bin\Debug\netcoreapp3.1\IBMaximumGap.dll
+C:\IBMaximumGap\bin\Debug\netcoreapp3.1\IBMaximumGap.pdb
+C:\IBMaximumGap\obj\Debug\netcoreapp3.1\IBMaximumGap.csprojAssemblyReference.cache
+C:\IBMaximumGap\obj\Debug\netcoreapp3.1\IBMaximumGap.AssemblyInfoInputs.cache
+C:\IBMaximumGap\obj\Debug\netcoreapp3.1\IBMaximumGap.AssemblyInfo.cs
+C:\IBMaximumGap\obj\Debug\netcoreapp3.1\IBMaximumGap.csproj.CoreCompileInputs.cache
+C:\IBMaximumGap\obj\Debug\netcoreapp3.1\IBMaximumGap.dll
+C:\IBMaximumGap\obj\Debug\netcoreapp3.1\IBMaximumGap.pdb
+C:\IBMaximumGap\obj\Debug\netcoreapp3.1\IBMaximumGap.genruntimeconfig.cache

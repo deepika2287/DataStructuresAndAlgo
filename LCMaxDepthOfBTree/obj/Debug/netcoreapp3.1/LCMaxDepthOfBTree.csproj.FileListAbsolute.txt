@@ -1,0 +1,13 @@
+C:\DSA Practice\LCMaxDepthOfBTree\bin\Debug\netcoreapp3.1\LCMaxDepthOfBTree.exe
+C:\DSA Practice\LCMaxDepthOfBTree\bin\Debug\netcoreapp3.1\LCMaxDepthOfBTree.deps.json
+C:\DSA Practice\LCMaxDepthOfBTree\bin\Debug\netcoreapp3.1\LCMaxDepthOfBTree.runtimeconfig.json
+C:\DSA Practice\LCMaxDepthOfBTree\bin\Debug\netcoreapp3.1\LCMaxDepthOfBTree.runtimeconfig.dev.json
+C:\DSA Practice\LCMaxDepthOfBTree\bin\Debug\netcoreapp3.1\LCMaxDepthOfBTree.dll
+C:\DSA Practice\LCMaxDepthOfBTree\bin\Debug\netcoreapp3.1\LCMaxDepthOfBTree.pdb
+C:\DSA Practice\LCMaxDepthOfBTree\obj\Debug\netcoreapp3.1\LCMaxDepthOfBTree.csprojAssemblyReference.cache
+C:\DSA Practice\LCMaxDepthOfBTree\obj\Debug\netcoreapp3.1\LCMaxDepthOfBTree.AssemblyInfoInputs.cache
+C:\DSA Practice\LCMaxDepthOfBTree\obj\Debug\netcoreapp3.1\LCMaxDepthOfBTree.AssemblyInfo.cs
+C:\DSA Practice\LCMaxDepthOfBTree\obj\Debug\netcoreapp3.1\LCMaxDepthOfBTree.csproj.CoreCompileInputs.cache
+C:\DSA Practice\LCMaxDepthOfBTree\obj\Debug\netcoreapp3.1\LCMaxDepthOfBTree.dll
+C:\DSA Practice\LCMaxDepthOfBTree\obj\Debug\netcoreapp3.1\LCMaxDepthOfBTree.pdb
+C:\DSA Practice\LCMaxDepthOfBTree\obj\Debug\netcoreapp3.1\LCMaxDepthOfBTree.genruntimeconfig.cache

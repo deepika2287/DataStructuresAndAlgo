@@ -1,0 +1,13 @@
+C:\DSA Practice\LCEvaluateDivision\obj\Debug\netcoreapp3.1\LCEvaluateDivision.csprojAssemblyReference.cache
+C:\DSA Practice\LCEvaluateDivision\obj\Debug\netcoreapp3.1\LCEvaluateDivision.AssemblyInfoInputs.cache
+C:\DSA Practice\LCEvaluateDivision\obj\Debug\netcoreapp3.1\LCEvaluateDivision.AssemblyInfo.cs
+C:\DSA Practice\LCEvaluateDivision\obj\Debug\netcoreapp3.1\LCEvaluateDivision.csproj.CoreCompileInputs.cache
+C:\DSA Practice\LCEvaluateDivision\bin\Debug\netcoreapp3.1\LCEvaluateDivision.exe
+C:\DSA Practice\LCEvaluateDivision\bin\Debug\netcoreapp3.1\LCEvaluateDivision.deps.json
+C:\DSA Practice\LCEvaluateDivision\bin\Debug\netcoreapp3.1\LCEvaluateDivision.runtimeconfig.json
+C:\DSA Practice\LCEvaluateDivision\bin\Debug\netcoreapp3.1\LCEvaluateDivision.runtimeconfig.dev.json
+C:\DSA Practice\LCEvaluateDivision\bin\Debug\netcoreapp3.1\LCEvaluateDivision.dll
+C:\DSA Practice\LCEvaluateDivision\bin\Debug\netcoreapp3.1\LCEvaluateDivision.pdb
+C:\DSA Practice\LCEvaluateDivision\obj\Debug\netcoreapp3.1\LCEvaluateDivision.dll
+C:\DSA Practice\LCEvaluateDivision\obj\Debug\netcoreapp3.1\LCEvaluateDivision.pdb
+C:\DSA Practice\LCEvaluateDivision\obj\Debug\netcoreapp3.1\LCEvaluateDivision.genruntimeconfig.cache

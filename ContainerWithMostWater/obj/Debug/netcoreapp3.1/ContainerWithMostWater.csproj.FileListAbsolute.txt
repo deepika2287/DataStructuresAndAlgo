@@ -1,0 +1,13 @@
+C:\DSA Practice\ContainerWithMostWater\bin\Debug\netcoreapp3.1\ContainerWithMostWater.exe
+C:\DSA Practice\ContainerWithMostWater\bin\Debug\netcoreapp3.1\ContainerWithMostWater.deps.json
+C:\DSA Practice\ContainerWithMostWater\bin\Debug\netcoreapp3.1\ContainerWithMostWater.runtimeconfig.json
+C:\DSA Practice\ContainerWithMostWater\bin\Debug\netcoreapp3.1\ContainerWithMostWater.runtimeconfig.dev.json
+C:\DSA Practice\ContainerWithMostWater\bin\Debug\netcoreapp3.1\ContainerWithMostWater.dll
+C:\DSA Practice\ContainerWithMostWater\bin\Debug\netcoreapp3.1\ContainerWithMostWater.pdb
+C:\DSA Practice\ContainerWithMostWater\obj\Debug\netcoreapp3.1\ContainerWithMostWater.csprojAssemblyReference.cache
+C:\DSA Practice\ContainerWithMostWater\obj\Debug\netcoreapp3.1\ContainerWithMostWater.AssemblyInfoInputs.cache
+C:\DSA Practice\ContainerWithMostWater\obj\Debug\netcoreapp3.1\ContainerWithMostWater.AssemblyInfo.cs
+C:\DSA Practice\ContainerWithMostWater\obj\Debug\netcoreapp3.1\ContainerWithMostWater.csproj.CoreCompileInputs.cache
+C:\DSA Practice\ContainerWithMostWater\obj\Debug\netcoreapp3.1\ContainerWithMostWater.dll
+C:\DSA Practice\ContainerWithMostWater\obj\Debug\netcoreapp3.1\ContainerWithMostWater.pdb
+C:\DSA Practice\ContainerWithMostWater\obj\Debug\netcoreapp3.1\ContainerWithMostWater.genruntimeconfig.cache

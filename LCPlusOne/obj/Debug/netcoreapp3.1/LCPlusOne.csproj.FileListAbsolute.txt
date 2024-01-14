@@ -1,0 +1,13 @@
+C:\DSA Practice\LCPlusOne\bin\Debug\netcoreapp3.1\LCPlusOne.exe
+C:\DSA Practice\LCPlusOne\bin\Debug\netcoreapp3.1\LCPlusOne.deps.json
+C:\DSA Practice\LCPlusOne\bin\Debug\netcoreapp3.1\LCPlusOne.runtimeconfig.json
+C:\DSA Practice\LCPlusOne\bin\Debug\netcoreapp3.1\LCPlusOne.runtimeconfig.dev.json
+C:\DSA Practice\LCPlusOne\bin\Debug\netcoreapp3.1\LCPlusOne.dll
+C:\DSA Practice\LCPlusOne\bin\Debug\netcoreapp3.1\LCPlusOne.pdb
+C:\DSA Practice\LCPlusOne\obj\Debug\netcoreapp3.1\LCPlusOne.csprojAssemblyReference.cache
+C:\DSA Practice\LCPlusOne\obj\Debug\netcoreapp3.1\LCPlusOne.AssemblyInfoInputs.cache
+C:\DSA Practice\LCPlusOne\obj\Debug\netcoreapp3.1\LCPlusOne.AssemblyInfo.cs
+C:\DSA Practice\LCPlusOne\obj\Debug\netcoreapp3.1\LCPlusOne.csproj.CoreCompileInputs.cache
+C:\DSA Practice\LCPlusOne\obj\Debug\netcoreapp3.1\LCPlusOne.dll
+C:\DSA Practice\LCPlusOne\obj\Debug\netcoreapp3.1\LCPlusOne.pdb
+C:\DSA Practice\LCPlusOne\obj\Debug\netcoreapp3.1\LCPlusOne.genruntimeconfig.cache

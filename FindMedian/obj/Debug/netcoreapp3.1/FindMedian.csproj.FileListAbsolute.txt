@@ -1,0 +1,13 @@
+C:\FindMedian\bin\Debug\netcoreapp3.1\FindMedian.exe
+C:\FindMedian\bin\Debug\netcoreapp3.1\FindMedian.deps.json
+C:\FindMedian\bin\Debug\netcoreapp3.1\FindMedian.runtimeconfig.json
+C:\FindMedian\bin\Debug\netcoreapp3.1\FindMedian.runtimeconfig.dev.json
+C:\FindMedian\bin\Debug\netcoreapp3.1\FindMedian.dll
+C:\FindMedian\bin\Debug\netcoreapp3.1\FindMedian.pdb
+C:\FindMedian\obj\Debug\netcoreapp3.1\FindMedian.csprojAssemblyReference.cache
+C:\FindMedian\obj\Debug\netcoreapp3.1\FindMedian.AssemblyInfoInputs.cache
+C:\FindMedian\obj\Debug\netcoreapp3.1\FindMedian.AssemblyInfo.cs
+C:\FindMedian\obj\Debug\netcoreapp3.1\FindMedian.csproj.CoreCompileInputs.cache
+C:\FindMedian\obj\Debug\netcoreapp3.1\FindMedian.dll
+C:\FindMedian\obj\Debug\netcoreapp3.1\FindMedian.pdb
+C:\FindMedian\obj\Debug\netcoreapp3.1\FindMedian.genruntimeconfig.cache

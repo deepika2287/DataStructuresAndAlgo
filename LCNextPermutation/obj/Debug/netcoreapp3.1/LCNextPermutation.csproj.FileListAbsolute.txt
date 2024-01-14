@@ -1,0 +1,13 @@
+C:\DSA Practice\LCNextPermutation\bin\Debug\netcoreapp3.1\LCNextPermutation.exe
+C:\DSA Practice\LCNextPermutation\bin\Debug\netcoreapp3.1\LCNextPermutation.deps.json
+C:\DSA Practice\LCNextPermutation\bin\Debug\netcoreapp3.1\LCNextPermutation.runtimeconfig.json
+C:\DSA Practice\LCNextPermutation\bin\Debug\netcoreapp3.1\LCNextPermutation.runtimeconfig.dev.json
+C:\DSA Practice\LCNextPermutation\bin\Debug\netcoreapp3.1\LCNextPermutation.dll
+C:\DSA Practice\LCNextPermutation\bin\Debug\netcoreapp3.1\LCNextPermutation.pdb
+C:\DSA Practice\LCNextPermutation\obj\Debug\netcoreapp3.1\LCNextPermutation.csprojAssemblyReference.cache
+C:\DSA Practice\LCNextPermutation\obj\Debug\netcoreapp3.1\LCNextPermutation.AssemblyInfoInputs.cache
+C:\DSA Practice\LCNextPermutation\obj\Debug\netcoreapp3.1\LCNextPermutation.AssemblyInfo.cs
+C:\DSA Practice\LCNextPermutation\obj\Debug\netcoreapp3.1\LCNextPermutation.csproj.CoreCompileInputs.cache
+C:\DSA Practice\LCNextPermutation\obj\Debug\netcoreapp3.1\LCNextPermutation.dll
+C:\DSA Practice\LCNextPermutation\obj\Debug\netcoreapp3.1\LCNextPermutation.pdb
+C:\DSA Practice\LCNextPermutation\obj\Debug\netcoreapp3.1\LCNextPermutation.genruntimeconfig.cache

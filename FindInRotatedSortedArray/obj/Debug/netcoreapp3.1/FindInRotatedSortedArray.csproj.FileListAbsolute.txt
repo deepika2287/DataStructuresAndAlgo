@@ -1,0 +1,13 @@
+C:\FindInRotatedSortedArray\bin\Debug\netcoreapp3.1\FindInRotatedSortedArray.exe
+C:\FindInRotatedSortedArray\bin\Debug\netcoreapp3.1\FindInRotatedSortedArray.deps.json
+C:\FindInRotatedSortedArray\bin\Debug\netcoreapp3.1\FindInRotatedSortedArray.runtimeconfig.json
+C:\FindInRotatedSortedArray\bin\Debug\netcoreapp3.1\FindInRotatedSortedArray.runtimeconfig.dev.json
+C:\FindInRotatedSortedArray\bin\Debug\netcoreapp3.1\FindInRotatedSortedArray.dll
+C:\FindInRotatedSortedArray\bin\Debug\netcoreapp3.1\FindInRotatedSortedArray.pdb
+C:\FindInRotatedSortedArray\obj\Debug\netcoreapp3.1\FindInRotatedSortedArray.csprojAssemblyReference.cache
+C:\FindInRotatedSortedArray\obj\Debug\netcoreapp3.1\FindInRotatedSortedArray.AssemblyInfoInputs.cache
+C:\FindInRotatedSortedArray\obj\Debug\netcoreapp3.1\FindInRotatedSortedArray.AssemblyInfo.cs
+C:\FindInRotatedSortedArray\obj\Debug\netcoreapp3.1\FindInRotatedSortedArray.csproj.CoreCompileInputs.cache
+C:\FindInRotatedSortedArray\obj\Debug\netcoreapp3.1\FindInRotatedSortedArray.dll
+C:\FindInRotatedSortedArray\obj\Debug\netcoreapp3.1\FindInRotatedSortedArray.pdb
+C:\FindInRotatedSortedArray\obj\Debug\netcoreapp3.1\FindInRotatedSortedArray.genruntimeconfig.cache

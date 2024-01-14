@@ -1,0 +1,13 @@
+C:\IBMaximumGapApproach2\bin\Debug\netcoreapp3.1\IBMaximumGapApproach2.exe
+C:\IBMaximumGapApproach2\bin\Debug\netcoreapp3.1\IBMaximumGapApproach2.deps.json
+C:\IBMaximumGapApproach2\bin\Debug\netcoreapp3.1\IBMaximumGapApproach2.runtimeconfig.json
+C:\IBMaximumGapApproach2\bin\Debug\netcoreapp3.1\IBMaximumGapApproach2.runtimeconfig.dev.json
+C:\IBMaximumGapApproach2\bin\Debug\netcoreapp3.1\IBMaximumGapApproach2.dll
+C:\IBMaximumGapApproach2\bin\Debug\netcoreapp3.1\IBMaximumGapApproach2.pdb
+C:\IBMaximumGapApproach2\obj\Debug\netcoreapp3.1\IBMaximumGapApproach2.csprojAssemblyReference.cache
+C:\IBMaximumGapApproach2\obj\Debug\netcoreapp3.1\IBMaximumGapApproach2.AssemblyInfoInputs.cache
+C:\IBMaximumGapApproach2\obj\Debug\netcoreapp3.1\IBMaximumGapApproach2.AssemblyInfo.cs
+C:\IBMaximumGapApproach2\obj\Debug\netcoreapp3.1\IBMaximumGapApproach2.csproj.CoreCompileInputs.cache
+C:\IBMaximumGapApproach2\obj\Debug\netcoreapp3.1\IBMaximumGapApproach2.dll
+C:\IBMaximumGapApproach2\obj\Debug\netcoreapp3.1\IBMaximumGapApproach2.pdb
+C:\IBMaximumGapApproach2\obj\Debug\netcoreapp3.1\IBMaximumGapApproach2.genruntimeconfig.cache

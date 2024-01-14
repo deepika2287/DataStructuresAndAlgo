@@ -1,0 +1,13 @@
+C:\DSA Practice\LCNumberOfIslands\bin\Debug\netcoreapp3.1\LCNumberOfIslands.exe
+C:\DSA Practice\LCNumberOfIslands\bin\Debug\netcoreapp3.1\LCNumberOfIslands.deps.json
+C:\DSA Practice\LCNumberOfIslands\bin\Debug\netcoreapp3.1\LCNumberOfIslands.runtimeconfig.json
+C:\DSA Practice\LCNumberOfIslands\bin\Debug\netcoreapp3.1\LCNumberOfIslands.runtimeconfig.dev.json
+C:\DSA Practice\LCNumberOfIslands\bin\Debug\netcoreapp3.1\LCNumberOfIslands.dll
+C:\DSA Practice\LCNumberOfIslands\bin\Debug\netcoreapp3.1\LCNumberOfIslands.pdb
+C:\DSA Practice\LCNumberOfIslands\obj\Debug\netcoreapp3.1\LCNumberOfIslands.csprojAssemblyReference.cache
+C:\DSA Practice\LCNumberOfIslands\obj\Debug\netcoreapp3.1\LCNumberOfIslands.AssemblyInfoInputs.cache
+C:\DSA Practice\LCNumberOfIslands\obj\Debug\netcoreapp3.1\LCNumberOfIslands.AssemblyInfo.cs
+C:\DSA Practice\LCNumberOfIslands\obj\Debug\netcoreapp3.1\LCNumberOfIslands.csproj.CoreCompileInputs.cache
+C:\DSA Practice\LCNumberOfIslands\obj\Debug\netcoreapp3.1\LCNumberOfIslands.dll
+C:\DSA Practice\LCNumberOfIslands\obj\Debug\netcoreapp3.1\LCNumberOfIslands.pdb
+C:\DSA Practice\LCNumberOfIslands\obj\Debug\netcoreapp3.1\LCNumberOfIslands.genruntimeconfig.cache

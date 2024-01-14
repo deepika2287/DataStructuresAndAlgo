@@ -1,0 +1,13 @@
+C:\BottomUpMergeSort\bin\Debug\netcoreapp3.1\BottomUpMergeSort.exe
+C:\BottomUpMergeSort\bin\Debug\netcoreapp3.1\BottomUpMergeSort.deps.json
+C:\BottomUpMergeSort\bin\Debug\netcoreapp3.1\BottomUpMergeSort.runtimeconfig.json
+C:\BottomUpMergeSort\bin\Debug\netcoreapp3.1\BottomUpMergeSort.runtimeconfig.dev.json
+C:\BottomUpMergeSort\bin\Debug\netcoreapp3.1\BottomUpMergeSort.dll
+C:\BottomUpMergeSort\bin\Debug\netcoreapp3.1\BottomUpMergeSort.pdb
+C:\BottomUpMergeSort\obj\Debug\netcoreapp3.1\BottomUpMergeSort.csprojAssemblyReference.cache
+C:\BottomUpMergeSort\obj\Debug\netcoreapp3.1\BottomUpMergeSort.AssemblyInfoInputs.cache
+C:\BottomUpMergeSort\obj\Debug\netcoreapp3.1\BottomUpMergeSort.AssemblyInfo.cs
+C:\BottomUpMergeSort\obj\Debug\netcoreapp3.1\BottomUpMergeSort.csproj.CoreCompileInputs.cache
+C:\BottomUpMergeSort\obj\Debug\netcoreapp3.1\BottomUpMergeSort.dll
+C:\BottomUpMergeSort\obj\Debug\netcoreapp3.1\BottomUpMergeSort.pdb
+C:\BottomUpMergeSort\obj\Debug\netcoreapp3.1\BottomUpMergeSort.genruntimeconfig.cache

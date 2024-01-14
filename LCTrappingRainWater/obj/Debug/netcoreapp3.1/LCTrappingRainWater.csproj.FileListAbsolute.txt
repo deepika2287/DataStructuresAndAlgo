@@ -1,0 +1,13 @@
+C:\DSA Practice\LCTrappingRainWater\bin\Debug\netcoreapp3.1\LCTrappingRainWater.exe
+C:\DSA Practice\LCTrappingRainWater\bin\Debug\netcoreapp3.1\LCTrappingRainWater.deps.json
+C:\DSA Practice\LCTrappingRainWater\bin\Debug\netcoreapp3.1\LCTrappingRainWater.runtimeconfig.json
+C:\DSA Practice\LCTrappingRainWater\bin\Debug\netcoreapp3.1\LCTrappingRainWater.runtimeconfig.dev.json
+C:\DSA Practice\LCTrappingRainWater\bin\Debug\netcoreapp3.1\LCTrappingRainWater.dll
+C:\DSA Practice\LCTrappingRainWater\bin\Debug\netcoreapp3.1\LCTrappingRainWater.pdb
+C:\DSA Practice\LCTrappingRainWater\obj\Debug\netcoreapp3.1\LCTrappingRainWater.csprojAssemblyReference.cache
+C:\DSA Practice\LCTrappingRainWater\obj\Debug\netcoreapp3.1\LCTrappingRainWater.AssemblyInfoInputs.cache
+C:\DSA Practice\LCTrappingRainWater\obj\Debug\netcoreapp3.1\LCTrappingRainWater.AssemblyInfo.cs
+C:\DSA Practice\LCTrappingRainWater\obj\Debug\netcoreapp3.1\LCTrappingRainWater.csproj.CoreCompileInputs.cache
+C:\DSA Practice\LCTrappingRainWater\obj\Debug\netcoreapp3.1\LCTrappingRainWater.dll
+C:\DSA Practice\LCTrappingRainWater\obj\Debug\netcoreapp3.1\LCTrappingRainWater.pdb
+C:\DSA Practice\LCTrappingRainWater\obj\Debug\netcoreapp3.1\LCTrappingRainWater.genruntimeconfig.cache

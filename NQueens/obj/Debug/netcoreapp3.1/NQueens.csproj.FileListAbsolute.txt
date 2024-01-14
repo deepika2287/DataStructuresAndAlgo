@@ -1,0 +1,13 @@
+C:\NQueens\bin\Debug\netcoreapp3.1\NQueens.exe
+C:\NQueens\bin\Debug\netcoreapp3.1\NQueens.deps.json
+C:\NQueens\bin\Debug\netcoreapp3.1\NQueens.runtimeconfig.json
+C:\NQueens\bin\Debug\netcoreapp3.1\NQueens.runtimeconfig.dev.json
+C:\NQueens\bin\Debug\netcoreapp3.1\NQueens.dll
+C:\NQueens\bin\Debug\netcoreapp3.1\NQueens.pdb
+C:\NQueens\obj\Debug\netcoreapp3.1\NQueens.csprojAssemblyReference.cache
+C:\NQueens\obj\Debug\netcoreapp3.1\NQueens.AssemblyInfoInputs.cache
+C:\NQueens\obj\Debug\netcoreapp3.1\NQueens.AssemblyInfo.cs
+C:\NQueens\obj\Debug\netcoreapp3.1\NQueens.csproj.CoreCompileInputs.cache
+C:\NQueens\obj\Debug\netcoreapp3.1\NQueens.dll
+C:\NQueens\obj\Debug\netcoreapp3.1\NQueens.pdb
+C:\NQueens\obj\Debug\netcoreapp3.1\NQueens.genruntimeconfig.cache

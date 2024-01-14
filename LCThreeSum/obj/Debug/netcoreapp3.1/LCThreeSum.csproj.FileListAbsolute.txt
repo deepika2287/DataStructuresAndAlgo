@@ -1,0 +1,13 @@
+C:\DSA Practice\LCThreeSum\bin\Debug\netcoreapp3.1\LCThreeSum.exe
+C:\DSA Practice\LCThreeSum\bin\Debug\netcoreapp3.1\LCThreeSum.deps.json
+C:\DSA Practice\LCThreeSum\bin\Debug\netcoreapp3.1\LCThreeSum.runtimeconfig.json
+C:\DSA Practice\LCThreeSum\bin\Debug\netcoreapp3.1\LCThreeSum.runtimeconfig.dev.json
+C:\DSA Practice\LCThreeSum\bin\Debug\netcoreapp3.1\LCThreeSum.dll
+C:\DSA Practice\LCThreeSum\bin\Debug\netcoreapp3.1\LCThreeSum.pdb
+C:\DSA Practice\LCThreeSum\obj\Debug\netcoreapp3.1\LCThreeSum.csprojAssemblyReference.cache
+C:\DSA Practice\LCThreeSum\obj\Debug\netcoreapp3.1\LCThreeSum.AssemblyInfoInputs.cache
+C:\DSA Practice\LCThreeSum\obj\Debug\netcoreapp3.1\LCThreeSum.AssemblyInfo.cs
+C:\DSA Practice\LCThreeSum\obj\Debug\netcoreapp3.1\LCThreeSum.csproj.CoreCompileInputs.cache
+C:\DSA Practice\LCThreeSum\obj\Debug\netcoreapp3.1\LCThreeSum.dll
+C:\DSA Practice\LCThreeSum\obj\Debug\netcoreapp3.1\LCThreeSum.pdb
+C:\DSA Practice\LCThreeSum\obj\Debug\netcoreapp3.1\LCThreeSum.genruntimeconfig.cache

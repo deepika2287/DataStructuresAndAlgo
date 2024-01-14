@@ -1,0 +1,13 @@
+C:\DSA Practice\LCVisitArrayPosToMaxScore\bin\Debug\netcoreapp3.1\LCVisitArrayPosToMaxScore.exe
+C:\DSA Practice\LCVisitArrayPosToMaxScore\bin\Debug\netcoreapp3.1\LCVisitArrayPosToMaxScore.deps.json
+C:\DSA Practice\LCVisitArrayPosToMaxScore\bin\Debug\netcoreapp3.1\LCVisitArrayPosToMaxScore.runtimeconfig.json
+C:\DSA Practice\LCVisitArrayPosToMaxScore\bin\Debug\netcoreapp3.1\LCVisitArrayPosToMaxScore.runtimeconfig.dev.json
+C:\DSA Practice\LCVisitArrayPosToMaxScore\bin\Debug\netcoreapp3.1\LCVisitArrayPosToMaxScore.dll
+C:\DSA Practice\LCVisitArrayPosToMaxScore\bin\Debug\netcoreapp3.1\LCVisitArrayPosToMaxScore.pdb
+C:\DSA Practice\LCVisitArrayPosToMaxScore\obj\Debug\netcoreapp3.1\LCVisitArrayPosToMaxScore.csprojAssemblyReference.cache
+C:\DSA Practice\LCVisitArrayPosToMaxScore\obj\Debug\netcoreapp3.1\LCVisitArrayPosToMaxScore.AssemblyInfoInputs.cache
+C:\DSA Practice\LCVisitArrayPosToMaxScore\obj\Debug\netcoreapp3.1\LCVisitArrayPosToMaxScore.AssemblyInfo.cs
+C:\DSA Practice\LCVisitArrayPosToMaxScore\obj\Debug\netcoreapp3.1\LCVisitArrayPosToMaxScore.csproj.CoreCompileInputs.cache
+C:\DSA Practice\LCVisitArrayPosToMaxScore\obj\Debug\netcoreapp3.1\LCVisitArrayPosToMaxScore.dll
+C:\DSA Practice\LCVisitArrayPosToMaxScore\obj\Debug\netcoreapp3.1\LCVisitArrayPosToMaxScore.pdb
+C:\DSA Practice\LCVisitArrayPosToMaxScore\obj\Debug\netcoreapp3.1\LCVisitArrayPosToMaxScore.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\DSA Practice\LCNQueens2\bin\Debug\netcoreapp3.1\LCNQueens2.exe
+C:\DSA Practice\LCNQueens2\bin\Debug\netcoreapp3.1\LCNQueens2.deps.json
+C:\DSA Practice\LCNQueens2\bin\Debug\netcoreapp3.1\LCNQueens2.runtimeconfig.json
+C:\DSA Practice\LCNQueens2\bin\Debug\netcoreapp3.1\LCNQueens2.runtimeconfig.dev.json
+C:\DSA Practice\LCNQueens2\bin\Debug\netcoreapp3.1\LCNQueens2.dll
+C:\DSA Practice\LCNQueens2\bin\Debug\netcoreapp3.1\LCNQueens2.pdb
+C:\DSA Practice\LCNQueens2\obj\Debug\netcoreapp3.1\LCNQueens2.csprojAssemblyReference.cache
+C:\DSA Practice\LCNQueens2\obj\Debug\netcoreapp3.1\LCNQueens2.AssemblyInfoInputs.cache
+C:\DSA Practice\LCNQueens2\obj\Debug\netcoreapp3.1\LCNQueens2.AssemblyInfo.cs
+C:\DSA Practice\LCNQueens2\obj\Debug\netcoreapp3.1\LCNQueens2.csproj.CoreCompileInputs.cache
+C:\DSA Practice\LCNQueens2\obj\Debug\netcoreapp3.1\LCNQueens2.dll
+C:\DSA Practice\LCNQueens2\obj\Debug\netcoreapp3.1\LCNQueens2.pdb
+C:\DSA Practice\LCNQueens2\obj\Debug\netcoreapp3.1\LCNQueens2.genruntimeconfig.cache

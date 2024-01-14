@@ -1,0 +1,13 @@
+C:\DSA Practice\LCTopKFreqElements\bin\Debug\netcoreapp3.1\LCTopKFreqElements.exe
+C:\DSA Practice\LCTopKFreqElements\bin\Debug\netcoreapp3.1\LCTopKFreqElements.deps.json
+C:\DSA Practice\LCTopKFreqElements\bin\Debug\netcoreapp3.1\LCTopKFreqElements.runtimeconfig.json
+C:\DSA Practice\LCTopKFreqElements\bin\Debug\netcoreapp3.1\LCTopKFreqElements.runtimeconfig.dev.json
+C:\DSA Practice\LCTopKFreqElements\bin\Debug\netcoreapp3.1\LCTopKFreqElements.dll
+C:\DSA Practice\LCTopKFreqElements\bin\Debug\netcoreapp3.1\LCTopKFreqElements.pdb
+C:\DSA Practice\LCTopKFreqElements\obj\Debug\netcoreapp3.1\LCTopKFreqElements.csprojAssemblyReference.cache
+C:\DSA Practice\LCTopKFreqElements\obj\Debug\netcoreapp3.1\LCTopKFreqElements.AssemblyInfoInputs.cache
+C:\DSA Practice\LCTopKFreqElements\obj\Debug\netcoreapp3.1\LCTopKFreqElements.AssemblyInfo.cs
+C:\DSA Practice\LCTopKFreqElements\obj\Debug\netcoreapp3.1\LCTopKFreqElements.csproj.CoreCompileInputs.cache
+C:\DSA Practice\LCTopKFreqElements\obj\Debug\netcoreapp3.1\LCTopKFreqElements.dll
+C:\DSA Practice\LCTopKFreqElements\obj\Debug\netcoreapp3.1\LCTopKFreqElements.pdb
+C:\DSA Practice\LCTopKFreqElements\obj\Debug\netcoreapp3.1\LCTopKFreqElements.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\SortedListToBinaryTree\bin\Debug\netcoreapp3.1\SortedListToBinaryTree.exe
+C:\SortedListToBinaryTree\bin\Debug\netcoreapp3.1\SortedListToBinaryTree.deps.json
+C:\SortedListToBinaryTree\bin\Debug\netcoreapp3.1\SortedListToBinaryTree.runtimeconfig.json
+C:\SortedListToBinaryTree\bin\Debug\netcoreapp3.1\SortedListToBinaryTree.runtimeconfig.dev.json
+C:\SortedListToBinaryTree\bin\Debug\netcoreapp3.1\SortedListToBinaryTree.dll
+C:\SortedListToBinaryTree\bin\Debug\netcoreapp3.1\SortedListToBinaryTree.pdb
+C:\SortedListToBinaryTree\obj\Debug\netcoreapp3.1\SortedListToBinaryTree.csprojAssemblyReference.cache
+C:\SortedListToBinaryTree\obj\Debug\netcoreapp3.1\SortedListToBinaryTree.AssemblyInfoInputs.cache
+C:\SortedListToBinaryTree\obj\Debug\netcoreapp3.1\SortedListToBinaryTree.AssemblyInfo.cs
+C:\SortedListToBinaryTree\obj\Debug\netcoreapp3.1\SortedListToBinaryTree.csproj.CoreCompileInputs.cache
+C:\SortedListToBinaryTree\obj\Debug\netcoreapp3.1\SortedListToBinaryTree.dll
+C:\SortedListToBinaryTree\obj\Debug\netcoreapp3.1\SortedListToBinaryTree.pdb
+C:\SortedListToBinaryTree\obj\Debug\netcoreapp3.1\SortedListToBinaryTree.genruntimeconfig.cache

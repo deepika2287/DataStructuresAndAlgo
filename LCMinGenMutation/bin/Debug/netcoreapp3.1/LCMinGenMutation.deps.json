@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "LCMinGenMutation/1.0.0": {
+        "runtime": {
+          "LCMinGenMutation.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LCMinGenMutation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

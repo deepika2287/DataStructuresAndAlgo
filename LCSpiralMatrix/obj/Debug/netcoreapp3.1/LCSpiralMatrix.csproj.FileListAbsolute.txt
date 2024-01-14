@@ -1,0 +1,13 @@
+C:\DSA Practice\LCSpiralMatrix\bin\Debug\netcoreapp3.1\LCSpiralMatrix.exe
+C:\DSA Practice\LCSpiralMatrix\bin\Debug\netcoreapp3.1\LCSpiralMatrix.deps.json
+C:\DSA Practice\LCSpiralMatrix\bin\Debug\netcoreapp3.1\LCSpiralMatrix.runtimeconfig.json
+C:\DSA Practice\LCSpiralMatrix\bin\Debug\netcoreapp3.1\LCSpiralMatrix.runtimeconfig.dev.json
+C:\DSA Practice\LCSpiralMatrix\bin\Debug\netcoreapp3.1\LCSpiralMatrix.dll
+C:\DSA Practice\LCSpiralMatrix\bin\Debug\netcoreapp3.1\LCSpiralMatrix.pdb
+C:\DSA Practice\LCSpiralMatrix\obj\Debug\netcoreapp3.1\LCSpiralMatrix.csprojAssemblyReference.cache
+C:\DSA Practice\LCSpiralMatrix\obj\Debug\netcoreapp3.1\LCSpiralMatrix.AssemblyInfoInputs.cache
+C:\DSA Practice\LCSpiralMatrix\obj\Debug\netcoreapp3.1\LCSpiralMatrix.AssemblyInfo.cs
+C:\DSA Practice\LCSpiralMatrix\obj\Debug\netcoreapp3.1\LCSpiralMatrix.csproj.CoreCompileInputs.cache
+C:\DSA Practice\LCSpiralMatrix\obj\Debug\netcoreapp3.1\LCSpiralMatrix.dll
+C:\DSA Practice\LCSpiralMatrix\obj\Debug\netcoreapp3.1\LCSpiralMatrix.pdb
+C:\DSA Practice\LCSpiralMatrix\obj\Debug\netcoreapp3.1\LCSpiralMatrix.genruntimeconfig.cache

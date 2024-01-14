@@ -1,0 +1,13 @@
+C:\ThreeWayQuickSort\bin\Debug\netcoreapp3.1\ThreeWayQuickSort.exe
+C:\ThreeWayQuickSort\bin\Debug\netcoreapp3.1\ThreeWayQuickSort.deps.json
+C:\ThreeWayQuickSort\bin\Debug\netcoreapp3.1\ThreeWayQuickSort.runtimeconfig.json
+C:\ThreeWayQuickSort\bin\Debug\netcoreapp3.1\ThreeWayQuickSort.runtimeconfig.dev.json
+C:\ThreeWayQuickSort\bin\Debug\netcoreapp3.1\ThreeWayQuickSort.dll
+C:\ThreeWayQuickSort\bin\Debug\netcoreapp3.1\ThreeWayQuickSort.pdb
+C:\ThreeWayQuickSort\obj\Debug\netcoreapp3.1\ThreeWayQuickSort.csprojAssemblyReference.cache
+C:\ThreeWayQuickSort\obj\Debug\netcoreapp3.1\ThreeWayQuickSort.AssemblyInfoInputs.cache
+C:\ThreeWayQuickSort\obj\Debug\netcoreapp3.1\ThreeWayQuickSort.AssemblyInfo.cs
+C:\ThreeWayQuickSort\obj\Debug\netcoreapp3.1\ThreeWayQuickSort.csproj.CoreCompileInputs.cache
+C:\ThreeWayQuickSort\obj\Debug\netcoreapp3.1\ThreeWayQuickSort.dll
+C:\ThreeWayQuickSort\obj\Debug\netcoreapp3.1\ThreeWayQuickSort.pdb
+C:\ThreeWayQuickSort\obj\Debug\netcoreapp3.1\ThreeWayQuickSort.genruntimeconfig.cache

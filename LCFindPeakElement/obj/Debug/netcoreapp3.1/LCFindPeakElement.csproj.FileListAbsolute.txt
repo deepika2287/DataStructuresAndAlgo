@@ -1,0 +1,13 @@
+c:\DSA Practice\LCFindPeakElement\bin\Debug\netcoreapp3.1\LCFindPeakElement.exe
+c:\DSA Practice\LCFindPeakElement\bin\Debug\netcoreapp3.1\LCFindPeakElement.deps.json
+c:\DSA Practice\LCFindPeakElement\bin\Debug\netcoreapp3.1\LCFindPeakElement.runtimeconfig.json
+c:\DSA Practice\LCFindPeakElement\bin\Debug\netcoreapp3.1\LCFindPeakElement.runtimeconfig.dev.json
+c:\DSA Practice\LCFindPeakElement\bin\Debug\netcoreapp3.1\LCFindPeakElement.dll
+c:\DSA Practice\LCFindPeakElement\bin\Debug\netcoreapp3.1\LCFindPeakElement.pdb
+c:\DSA Practice\LCFindPeakElement\obj\Debug\netcoreapp3.1\LCFindPeakElement.csprojAssemblyReference.cache
+c:\DSA Practice\LCFindPeakElement\obj\Debug\netcoreapp3.1\LCFindPeakElement.AssemblyInfoInputs.cache
+c:\DSA Practice\LCFindPeakElement\obj\Debug\netcoreapp3.1\LCFindPeakElement.AssemblyInfo.cs
+c:\DSA Practice\LCFindPeakElement\obj\Debug\netcoreapp3.1\LCFindPeakElement.csproj.CoreCompileInputs.cache
+c:\DSA Practice\LCFindPeakElement\obj\Debug\netcoreapp3.1\LCFindPeakElement.dll
+c:\DSA Practice\LCFindPeakElement\obj\Debug\netcoreapp3.1\LCFindPeakElement.pdb
+c:\DSA Practice\LCFindPeakElement\obj\Debug\netcoreapp3.1\LCFindPeakElement.genruntimeconfig.cache

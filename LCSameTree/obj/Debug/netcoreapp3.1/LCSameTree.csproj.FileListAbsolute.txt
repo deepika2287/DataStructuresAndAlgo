@@ -1,0 +1,13 @@
+C:\DSA Practice\LCSameTree\bin\Debug\netcoreapp3.1\LCSameTree.exe
+C:\DSA Practice\LCSameTree\bin\Debug\netcoreapp3.1\LCSameTree.deps.json
+C:\DSA Practice\LCSameTree\bin\Debug\netcoreapp3.1\LCSameTree.runtimeconfig.json
+C:\DSA Practice\LCSameTree\bin\Debug\netcoreapp3.1\LCSameTree.runtimeconfig.dev.json
+C:\DSA Practice\LCSameTree\bin\Debug\netcoreapp3.1\LCSameTree.dll
+C:\DSA Practice\LCSameTree\bin\Debug\netcoreapp3.1\LCSameTree.pdb
+C:\DSA Practice\LCSameTree\obj\Debug\netcoreapp3.1\LCSameTree.csprojAssemblyReference.cache
+C:\DSA Practice\LCSameTree\obj\Debug\netcoreapp3.1\LCSameTree.AssemblyInfoInputs.cache
+C:\DSA Practice\LCSameTree\obj\Debug\netcoreapp3.1\LCSameTree.AssemblyInfo.cs
+C:\DSA Practice\LCSameTree\obj\Debug\netcoreapp3.1\LCSameTree.csproj.CoreCompileInputs.cache
+C:\DSA Practice\LCSameTree\obj\Debug\netcoreapp3.1\LCSameTree.dll
+C:\DSA Practice\LCSameTree\obj\Debug\netcoreapp3.1\LCSameTree.pdb
+C:\DSA Practice\LCSameTree\obj\Debug\netcoreapp3.1\LCSameTree.genruntimeconfig.cache

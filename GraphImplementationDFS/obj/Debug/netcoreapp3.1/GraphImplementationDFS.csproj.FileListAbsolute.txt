@@ -1,0 +1,13 @@
+C:\DSA Practice\GraphImplementationDFS\bin\Debug\netcoreapp3.1\GraphImplementationDFS.exe
+C:\DSA Practice\GraphImplementationDFS\bin\Debug\netcoreapp3.1\GraphImplementationDFS.deps.json
+C:\DSA Practice\GraphImplementationDFS\bin\Debug\netcoreapp3.1\GraphImplementationDFS.runtimeconfig.json
+C:\DSA Practice\GraphImplementationDFS\bin\Debug\netcoreapp3.1\GraphImplementationDFS.runtimeconfig.dev.json
+C:\DSA Practice\GraphImplementationDFS\bin\Debug\netcoreapp3.1\GraphImplementationDFS.dll
+C:\DSA Practice\GraphImplementationDFS\bin\Debug\netcoreapp3.1\GraphImplementationDFS.pdb
+C:\DSA Practice\GraphImplementationDFS\obj\Debug\netcoreapp3.1\GraphImplementationDFS.csprojAssemblyReference.cache
+C:\DSA Practice\GraphImplementationDFS\obj\Debug\netcoreapp3.1\GraphImplementationDFS.AssemblyInfoInputs.cache
+C:\DSA Practice\GraphImplementationDFS\obj\Debug\netcoreapp3.1\GraphImplementationDFS.AssemblyInfo.cs
+C:\DSA Practice\GraphImplementationDFS\obj\Debug\netcoreapp3.1\GraphImplementationDFS.csproj.CoreCompileInputs.cache
+C:\DSA Practice\GraphImplementationDFS\obj\Debug\netcoreapp3.1\GraphImplementationDFS.dll
+C:\DSA Practice\GraphImplementationDFS\obj\Debug\netcoreapp3.1\GraphImplementationDFS.pdb
+C:\DSA Practice\GraphImplementationDFS\obj\Debug\netcoreapp3.1\GraphImplementationDFS.genruntimeconfig.cache

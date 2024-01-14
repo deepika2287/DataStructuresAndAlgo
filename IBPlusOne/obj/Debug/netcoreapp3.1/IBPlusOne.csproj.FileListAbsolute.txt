@@ -1,0 +1,13 @@
+C:\IBPlusOne\bin\Debug\netcoreapp3.1\IBPlusOne.exe
+C:\IBPlusOne\bin\Debug\netcoreapp3.1\IBPlusOne.deps.json
+C:\IBPlusOne\bin\Debug\netcoreapp3.1\IBPlusOne.runtimeconfig.json
+C:\IBPlusOne\bin\Debug\netcoreapp3.1\IBPlusOne.runtimeconfig.dev.json
+C:\IBPlusOne\bin\Debug\netcoreapp3.1\IBPlusOne.dll
+C:\IBPlusOne\bin\Debug\netcoreapp3.1\IBPlusOne.pdb
+C:\IBPlusOne\obj\Debug\netcoreapp3.1\IBPlusOne.csprojAssemblyReference.cache
+C:\IBPlusOne\obj\Debug\netcoreapp3.1\IBPlusOne.AssemblyInfoInputs.cache
+C:\IBPlusOne\obj\Debug\netcoreapp3.1\IBPlusOne.AssemblyInfo.cs
+C:\IBPlusOne\obj\Debug\netcoreapp3.1\IBPlusOne.csproj.CoreCompileInputs.cache
+C:\IBPlusOne\obj\Debug\netcoreapp3.1\IBPlusOne.dll
+C:\IBPlusOne\obj\Debug\netcoreapp3.1\IBPlusOne.pdb
+C:\IBPlusOne\obj\Debug\netcoreapp3.1\IBPlusOne.genruntimeconfig.cache

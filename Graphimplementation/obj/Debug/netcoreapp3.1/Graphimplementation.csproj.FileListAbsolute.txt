@@ -1,0 +1,13 @@
+C:\DSA Practice\Graphimplementation\bin\Debug\netcoreapp3.1\Graphimplementation.exe
+C:\DSA Practice\Graphimplementation\bin\Debug\netcoreapp3.1\Graphimplementation.deps.json
+C:\DSA Practice\Graphimplementation\bin\Debug\netcoreapp3.1\Graphimplementation.runtimeconfig.json
+C:\DSA Practice\Graphimplementation\bin\Debug\netcoreapp3.1\Graphimplementation.runtimeconfig.dev.json
+C:\DSA Practice\Graphimplementation\bin\Debug\netcoreapp3.1\Graphimplementation.dll
+C:\DSA Practice\Graphimplementation\bin\Debug\netcoreapp3.1\Graphimplementation.pdb
+C:\DSA Practice\Graphimplementation\obj\Debug\netcoreapp3.1\Graphimplementation.csprojAssemblyReference.cache
+C:\DSA Practice\Graphimplementation\obj\Debug\netcoreapp3.1\Graphimplementation.AssemblyInfoInputs.cache
+C:\DSA Practice\Graphimplementation\obj\Debug\netcoreapp3.1\Graphimplementation.AssemblyInfo.cs
+C:\DSA Practice\Graphimplementation\obj\Debug\netcoreapp3.1\Graphimplementation.csproj.CoreCompileInputs.cache
+C:\DSA Practice\Graphimplementation\obj\Debug\netcoreapp3.1\Graphimplementation.dll
+C:\DSA Practice\Graphimplementation\obj\Debug\netcoreapp3.1\Graphimplementation.pdb
+C:\DSA Practice\Graphimplementation\obj\Debug\netcoreapp3.1\Graphimplementation.genruntimeconfig.cache

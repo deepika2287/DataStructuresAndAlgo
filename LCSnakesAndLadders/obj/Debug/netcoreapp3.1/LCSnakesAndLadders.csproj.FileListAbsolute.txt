@@ -1,0 +1,13 @@
+C:\DSA Practice\LCSnakesAndLadders\bin\Debug\netcoreapp3.1\LCSnakesAndLadders.exe
+C:\DSA Practice\LCSnakesAndLadders\bin\Debug\netcoreapp3.1\LCSnakesAndLadders.deps.json
+C:\DSA Practice\LCSnakesAndLadders\bin\Debug\netcoreapp3.1\LCSnakesAndLadders.runtimeconfig.json
+C:\DSA Practice\LCSnakesAndLadders\bin\Debug\netcoreapp3.1\LCSnakesAndLadders.runtimeconfig.dev.json
+C:\DSA Practice\LCSnakesAndLadders\bin\Debug\netcoreapp3.1\LCSnakesAndLadders.dll
+C:\DSA Practice\LCSnakesAndLadders\bin\Debug\netcoreapp3.1\LCSnakesAndLadders.pdb
+C:\DSA Practice\LCSnakesAndLadders\obj\Debug\netcoreapp3.1\LCSnakesAndLadders.csprojAssemblyReference.cache
+C:\DSA Practice\LCSnakesAndLadders\obj\Debug\netcoreapp3.1\LCSnakesAndLadders.AssemblyInfoInputs.cache
+C:\DSA Practice\LCSnakesAndLadders\obj\Debug\netcoreapp3.1\LCSnakesAndLadders.AssemblyInfo.cs
+C:\DSA Practice\LCSnakesAndLadders\obj\Debug\netcoreapp3.1\LCSnakesAndLadders.csproj.CoreCompileInputs.cache
+C:\DSA Practice\LCSnakesAndLadders\obj\Debug\netcoreapp3.1\LCSnakesAndLadders.dll
+C:\DSA Practice\LCSnakesAndLadders\obj\Debug\netcoreapp3.1\LCSnakesAndLadders.pdb
+C:\DSA Practice\LCSnakesAndLadders\obj\Debug\netcoreapp3.1\LCSnakesAndLadders.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\findkclosest\bin\Debug\netcoreapp3.1\findkclosest.exe
+C:\findkclosest\bin\Debug\netcoreapp3.1\findkclosest.deps.json
+C:\findkclosest\bin\Debug\netcoreapp3.1\findkclosest.runtimeconfig.json
+C:\findkclosest\bin\Debug\netcoreapp3.1\findkclosest.runtimeconfig.dev.json
+C:\findkclosest\bin\Debug\netcoreapp3.1\findkclosest.dll
+C:\findkclosest\bin\Debug\netcoreapp3.1\findkclosest.pdb
+C:\findkclosest\obj\Debug\netcoreapp3.1\findkclosest.csprojAssemblyReference.cache
+C:\findkclosest\obj\Debug\netcoreapp3.1\findkclosest.AssemblyInfoInputs.cache
+C:\findkclosest\obj\Debug\netcoreapp3.1\findkclosest.AssemblyInfo.cs
+C:\findkclosest\obj\Debug\netcoreapp3.1\findkclosest.csproj.CoreCompileInputs.cache
+C:\findkclosest\obj\Debug\netcoreapp3.1\findkclosest.dll
+C:\findkclosest\obj\Debug\netcoreapp3.1\findkclosest.pdb
+C:\findkclosest\obj\Debug\netcoreapp3.1\findkclosest.genruntimeconfig.cache

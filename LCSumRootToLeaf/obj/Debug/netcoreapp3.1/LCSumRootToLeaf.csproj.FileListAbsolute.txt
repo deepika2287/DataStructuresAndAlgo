@@ -1,0 +1,13 @@
+C:\DSA Practice\LCSumRootToLeaf\bin\Debug\netcoreapp3.1\LCSumRootToLeaf.exe
+C:\DSA Practice\LCSumRootToLeaf\bin\Debug\netcoreapp3.1\LCSumRootToLeaf.deps.json
+C:\DSA Practice\LCSumRootToLeaf\bin\Debug\netcoreapp3.1\LCSumRootToLeaf.runtimeconfig.json
+C:\DSA Practice\LCSumRootToLeaf\bin\Debug\netcoreapp3.1\LCSumRootToLeaf.runtimeconfig.dev.json
+C:\DSA Practice\LCSumRootToLeaf\bin\Debug\netcoreapp3.1\LCSumRootToLeaf.dll
+C:\DSA Practice\LCSumRootToLeaf\bin\Debug\netcoreapp3.1\LCSumRootToLeaf.pdb
+C:\DSA Practice\LCSumRootToLeaf\obj\Debug\netcoreapp3.1\LCSumRootToLeaf.csprojAssemblyReference.cache
+C:\DSA Practice\LCSumRootToLeaf\obj\Debug\netcoreapp3.1\LCSumRootToLeaf.AssemblyInfoInputs.cache
+C:\DSA Practice\LCSumRootToLeaf\obj\Debug\netcoreapp3.1\LCSumRootToLeaf.AssemblyInfo.cs
+C:\DSA Practice\LCSumRootToLeaf\obj\Debug\netcoreapp3.1\LCSumRootToLeaf.csproj.CoreCompileInputs.cache
+C:\DSA Practice\LCSumRootToLeaf\obj\Debug\netcoreapp3.1\LCSumRootToLeaf.dll
+C:\DSA Practice\LCSumRootToLeaf\obj\Debug\netcoreapp3.1\LCSumRootToLeaf.pdb
+C:\DSA Practice\LCSumRootToLeaf\obj\Debug\netcoreapp3.1\LCSumRootToLeaf.genruntimeconfig.cache

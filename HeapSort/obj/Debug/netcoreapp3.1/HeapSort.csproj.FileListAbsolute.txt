@@ -1,0 +1,13 @@
+C:\HeapSort\bin\Debug\netcoreapp3.1\HeapSort.exe
+C:\HeapSort\bin\Debug\netcoreapp3.1\HeapSort.deps.json
+C:\HeapSort\bin\Debug\netcoreapp3.1\HeapSort.runtimeconfig.json
+C:\HeapSort\bin\Debug\netcoreapp3.1\HeapSort.runtimeconfig.dev.json
+C:\HeapSort\bin\Debug\netcoreapp3.1\HeapSort.dll
+C:\HeapSort\bin\Debug\netcoreapp3.1\HeapSort.pdb
+C:\HeapSort\obj\Debug\netcoreapp3.1\HeapSort.csprojAssemblyReference.cache
+C:\HeapSort\obj\Debug\netcoreapp3.1\HeapSort.AssemblyInfoInputs.cache
+C:\HeapSort\obj\Debug\netcoreapp3.1\HeapSort.AssemblyInfo.cs
+C:\HeapSort\obj\Debug\netcoreapp3.1\HeapSort.csproj.CoreCompileInputs.cache
+C:\HeapSort\obj\Debug\netcoreapp3.1\HeapSort.dll
+C:\HeapSort\obj\Debug\netcoreapp3.1\HeapSort.pdb
+C:\HeapSort\obj\Debug\netcoreapp3.1\HeapSort.genruntimeconfig.cache

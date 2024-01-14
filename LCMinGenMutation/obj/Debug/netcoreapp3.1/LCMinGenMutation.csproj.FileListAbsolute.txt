@@ -1,0 +1,13 @@
+C:\DSA Practice\LCMinGenMutation\bin\Debug\netcoreapp3.1\LCMinGenMutation.exe
+C:\DSA Practice\LCMinGenMutation\bin\Debug\netcoreapp3.1\LCMinGenMutation.deps.json
+C:\DSA Practice\LCMinGenMutation\bin\Debug\netcoreapp3.1\LCMinGenMutation.runtimeconfig.json
+C:\DSA Practice\LCMinGenMutation\bin\Debug\netcoreapp3.1\LCMinGenMutation.runtimeconfig.dev.json
+C:\DSA Practice\LCMinGenMutation\bin\Debug\netcoreapp3.1\LCMinGenMutation.dll
+C:\DSA Practice\LCMinGenMutation\bin\Debug\netcoreapp3.1\LCMinGenMutation.pdb
+C:\DSA Practice\LCMinGenMutation\obj\Debug\netcoreapp3.1\LCMinGenMutation.csprojAssemblyReference.cache
+C:\DSA Practice\LCMinGenMutation\obj\Debug\netcoreapp3.1\LCMinGenMutation.AssemblyInfoInputs.cache
+C:\DSA Practice\LCMinGenMutation\obj\Debug\netcoreapp3.1\LCMinGenMutation.AssemblyInfo.cs
+C:\DSA Practice\LCMinGenMutation\obj\Debug\netcoreapp3.1\LCMinGenMutation.csproj.CoreCompileInputs.cache
+C:\DSA Practice\LCMinGenMutation\obj\Debug\netcoreapp3.1\LCMinGenMutation.dll
+C:\DSA Practice\LCMinGenMutation\obj\Debug\netcoreapp3.1\LCMinGenMutation.pdb
+C:\DSA Practice\LCMinGenMutation\obj\Debug\netcoreapp3.1\LCMinGenMutation.genruntimeconfig.cache

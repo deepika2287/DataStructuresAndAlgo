@@ -1,0 +1,13 @@
+C:\DSA Practice\TuringPracticeQuestion\bin\Debug\netcoreapp3.1\TuringPracticeQuestion.exe
+C:\DSA Practice\TuringPracticeQuestion\bin\Debug\netcoreapp3.1\TuringPracticeQuestion.deps.json
+C:\DSA Practice\TuringPracticeQuestion\bin\Debug\netcoreapp3.1\TuringPracticeQuestion.runtimeconfig.json
+C:\DSA Practice\TuringPracticeQuestion\bin\Debug\netcoreapp3.1\TuringPracticeQuestion.runtimeconfig.dev.json
+C:\DSA Practice\TuringPracticeQuestion\bin\Debug\netcoreapp3.1\TuringPracticeQuestion.dll
+C:\DSA Practice\TuringPracticeQuestion\bin\Debug\netcoreapp3.1\TuringPracticeQuestion.pdb
+C:\DSA Practice\TuringPracticeQuestion\obj\Debug\netcoreapp3.1\TuringPracticeQuestion.csprojAssemblyReference.cache
+C:\DSA Practice\TuringPracticeQuestion\obj\Debug\netcoreapp3.1\TuringPracticeQuestion.AssemblyInfoInputs.cache
+C:\DSA Practice\TuringPracticeQuestion\obj\Debug\netcoreapp3.1\TuringPracticeQuestion.AssemblyInfo.cs
+C:\DSA Practice\TuringPracticeQuestion\obj\Debug\netcoreapp3.1\TuringPracticeQuestion.csproj.CoreCompileInputs.cache
+C:\DSA Practice\TuringPracticeQuestion\obj\Debug\netcoreapp3.1\TuringPracticeQuestion.dll
+C:\DSA Practice\TuringPracticeQuestion\obj\Debug\netcoreapp3.1\TuringPracticeQuestion.pdb
+C:\DSA Practice\TuringPracticeQuestion\obj\Debug\netcoreapp3.1\TuringPracticeQuestion.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\DSA Practice\LCKWeakestRowsInMatrix\bin\Debug\netcoreapp3.1\LCKWeakestRowsInMatrix.exe
+C:\DSA Practice\LCKWeakestRowsInMatrix\bin\Debug\netcoreapp3.1\LCKWeakestRowsInMatrix.deps.json
+C:\DSA Practice\LCKWeakestRowsInMatrix\bin\Debug\netcoreapp3.1\LCKWeakestRowsInMatrix.runtimeconfig.json
+C:\DSA Practice\LCKWeakestRowsInMatrix\bin\Debug\netcoreapp3.1\LCKWeakestRowsInMatrix.runtimeconfig.dev.json
+C:\DSA Practice\LCKWeakestRowsInMatrix\bin\Debug\netcoreapp3.1\LCKWeakestRowsInMatrix.dll
+C:\DSA Practice\LCKWeakestRowsInMatrix\bin\Debug\netcoreapp3.1\LCKWeakestRowsInMatrix.pdb
+C:\DSA Practice\LCKWeakestRowsInMatrix\obj\Debug\netcoreapp3.1\LCKWeakestRowsInMatrix.csprojAssemblyReference.cache
+C:\DSA Practice\LCKWeakestRowsInMatrix\obj\Debug\netcoreapp3.1\LCKWeakestRowsInMatrix.AssemblyInfoInputs.cache
+C:\DSA Practice\LCKWeakestRowsInMatrix\obj\Debug\netcoreapp3.1\LCKWeakestRowsInMatrix.AssemblyInfo.cs
+C:\DSA Practice\LCKWeakestRowsInMatrix\obj\Debug\netcoreapp3.1\LCKWeakestRowsInMatrix.csproj.CoreCompileInputs.cache
+C:\DSA Practice\LCKWeakestRowsInMatrix\obj\Debug\netcoreapp3.1\LCKWeakestRowsInMatrix.dll
+C:\DSA Practice\LCKWeakestRowsInMatrix\obj\Debug\netcoreapp3.1\LCKWeakestRowsInMatrix.pdb
+C:\DSA Practice\LCKWeakestRowsInMatrix\obj\Debug\netcoreapp3.1\LCKWeakestRowsInMatrix.genruntimeconfig.cache

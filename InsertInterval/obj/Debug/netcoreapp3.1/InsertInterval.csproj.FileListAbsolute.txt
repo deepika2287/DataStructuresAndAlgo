@@ -1,0 +1,13 @@
+C:\InsertInterval\bin\Debug\netcoreapp3.1\InsertInterval.exe
+C:\InsertInterval\bin\Debug\netcoreapp3.1\InsertInterval.deps.json
+C:\InsertInterval\bin\Debug\netcoreapp3.1\InsertInterval.runtimeconfig.json
+C:\InsertInterval\bin\Debug\netcoreapp3.1\InsertInterval.runtimeconfig.dev.json
+C:\InsertInterval\bin\Debug\netcoreapp3.1\InsertInterval.dll
+C:\InsertInterval\bin\Debug\netcoreapp3.1\InsertInterval.pdb
+C:\InsertInterval\obj\Debug\netcoreapp3.1\InsertInterval.csprojAssemblyReference.cache
+C:\InsertInterval\obj\Debug\netcoreapp3.1\InsertInterval.AssemblyInfoInputs.cache
+C:\InsertInterval\obj\Debug\netcoreapp3.1\InsertInterval.AssemblyInfo.cs
+C:\InsertInterval\obj\Debug\netcoreapp3.1\InsertInterval.csproj.CoreCompileInputs.cache
+C:\InsertInterval\obj\Debug\netcoreapp3.1\InsertInterval.dll
+C:\InsertInterval\obj\Debug\netcoreapp3.1\InsertInterval.pdb
+C:\InsertInterval\obj\Debug\netcoreapp3.1\InsertInterval.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\findrange\bin\Debug\netcoreapp3.1\findrange.exe
+C:\findrange\bin\Debug\netcoreapp3.1\findrange.deps.json
+C:\findrange\bin\Debug\netcoreapp3.1\findrange.runtimeconfig.json
+C:\findrange\bin\Debug\netcoreapp3.1\findrange.runtimeconfig.dev.json
+C:\findrange\bin\Debug\netcoreapp3.1\findrange.dll
+C:\findrange\bin\Debug\netcoreapp3.1\findrange.pdb
+C:\findrange\obj\Debug\netcoreapp3.1\findrange.csprojAssemblyReference.cache
+C:\findrange\obj\Debug\netcoreapp3.1\findrange.AssemblyInfoInputs.cache
+C:\findrange\obj\Debug\netcoreapp3.1\findrange.AssemblyInfo.cs
+C:\findrange\obj\Debug\netcoreapp3.1\findrange.csproj.CoreCompileInputs.cache
+C:\findrange\obj\Debug\netcoreapp3.1\findrange.dll
+C:\findrange\obj\Debug\netcoreapp3.1\findrange.pdb
+C:\findrange\obj\Debug\netcoreapp3.1\findrange.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\DSA Practice\LCCountTreeNodes\bin\Debug\netcoreapp3.1\LCCountTreeNodes.exe
+C:\DSA Practice\LCCountTreeNodes\bin\Debug\netcoreapp3.1\LCCountTreeNodes.deps.json
+C:\DSA Practice\LCCountTreeNodes\bin\Debug\netcoreapp3.1\LCCountTreeNodes.runtimeconfig.json
+C:\DSA Practice\LCCountTreeNodes\bin\Debug\netcoreapp3.1\LCCountTreeNodes.runtimeconfig.dev.json
+C:\DSA Practice\LCCountTreeNodes\bin\Debug\netcoreapp3.1\LCCountTreeNodes.dll
+C:\DSA Practice\LCCountTreeNodes\bin\Debug\netcoreapp3.1\LCCountTreeNodes.pdb
+C:\DSA Practice\LCCountTreeNodes\obj\Debug\netcoreapp3.1\LCCountTreeNodes.csprojAssemblyReference.cache
+C:\DSA Practice\LCCountTreeNodes\obj\Debug\netcoreapp3.1\LCCountTreeNodes.AssemblyInfoInputs.cache
+C:\DSA Practice\LCCountTreeNodes\obj\Debug\netcoreapp3.1\LCCountTreeNodes.AssemblyInfo.cs
+C:\DSA Practice\LCCountTreeNodes\obj\Debug\netcoreapp3.1\LCCountTreeNodes.csproj.CoreCompileInputs.cache
+C:\DSA Practice\LCCountTreeNodes\obj\Debug\netcoreapp3.1\LCCountTreeNodes.dll
+C:\DSA Practice\LCCountTreeNodes\obj\Debug\netcoreapp3.1\LCCountTreeNodes.pdb
+C:\DSA Practice\LCCountTreeNodes\obj\Debug\netcoreapp3.1\LCCountTreeNodes.genruntimeconfig.cache

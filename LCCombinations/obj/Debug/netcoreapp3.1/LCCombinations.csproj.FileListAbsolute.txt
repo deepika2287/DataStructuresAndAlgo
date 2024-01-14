@@ -1,0 +1,13 @@
+C:\DSA Practice\LCCombinations\bin\Debug\netcoreapp3.1\LCCombinations.exe
+C:\DSA Practice\LCCombinations\bin\Debug\netcoreapp3.1\LCCombinations.deps.json
+C:\DSA Practice\LCCombinations\bin\Debug\netcoreapp3.1\LCCombinations.runtimeconfig.json
+C:\DSA Practice\LCCombinations\bin\Debug\netcoreapp3.1\LCCombinations.runtimeconfig.dev.json
+C:\DSA Practice\LCCombinations\bin\Debug\netcoreapp3.1\LCCombinations.dll
+C:\DSA Practice\LCCombinations\bin\Debug\netcoreapp3.1\LCCombinations.pdb
+C:\DSA Practice\LCCombinations\obj\Debug\netcoreapp3.1\LCCombinations.csprojAssemblyReference.cache
+C:\DSA Practice\LCCombinations\obj\Debug\netcoreapp3.1\LCCombinations.AssemblyInfoInputs.cache
+C:\DSA Practice\LCCombinations\obj\Debug\netcoreapp3.1\LCCombinations.AssemblyInfo.cs
+C:\DSA Practice\LCCombinations\obj\Debug\netcoreapp3.1\LCCombinations.csproj.CoreCompileInputs.cache
+C:\DSA Practice\LCCombinations\obj\Debug\netcoreapp3.1\LCCombinations.dll
+C:\DSA Practice\LCCombinations\obj\Debug\netcoreapp3.1\LCCombinations.pdb
+C:\DSA Practice\LCCombinations\obj\Debug\netcoreapp3.1\LCCombinations.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\CombinationSum\bin\Debug\netcoreapp3.1\CombinationSum.exe
+C:\CombinationSum\bin\Debug\netcoreapp3.1\CombinationSum.deps.json
+C:\CombinationSum\bin\Debug\netcoreapp3.1\CombinationSum.runtimeconfig.json
+C:\CombinationSum\bin\Debug\netcoreapp3.1\CombinationSum.runtimeconfig.dev.json
+C:\CombinationSum\bin\Debug\netcoreapp3.1\CombinationSum.dll
+C:\CombinationSum\bin\Debug\netcoreapp3.1\CombinationSum.pdb
+C:\CombinationSum\obj\Debug\netcoreapp3.1\CombinationSum.csprojAssemblyReference.cache
+C:\CombinationSum\obj\Debug\netcoreapp3.1\CombinationSum.AssemblyInfoInputs.cache
+C:\CombinationSum\obj\Debug\netcoreapp3.1\CombinationSum.AssemblyInfo.cs
+C:\CombinationSum\obj\Debug\netcoreapp3.1\CombinationSum.csproj.CoreCompileInputs.cache
+C:\CombinationSum\obj\Debug\netcoreapp3.1\CombinationSum.dll
+C:\CombinationSum\obj\Debug\netcoreapp3.1\CombinationSum.pdb
+C:\CombinationSum\obj\Debug\netcoreapp3.1\CombinationSum.genruntimeconfig.cache

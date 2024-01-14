@@ -1,0 +1,13 @@
+C:\WaveArray\obj\Debug\netcoreapp3.1\WaveArray.csprojAssemblyReference.cache
+C:\WaveArray\obj\Debug\netcoreapp3.1\WaveArray.AssemblyInfoInputs.cache
+C:\WaveArray\obj\Debug\netcoreapp3.1\WaveArray.AssemblyInfo.cs
+C:\WaveArray\obj\Debug\netcoreapp3.1\WaveArray.csproj.CoreCompileInputs.cache
+C:\WaveArray\bin\Debug\netcoreapp3.1\WaveArray.exe
+C:\WaveArray\bin\Debug\netcoreapp3.1\WaveArray.deps.json
+C:\WaveArray\bin\Debug\netcoreapp3.1\WaveArray.runtimeconfig.json
+C:\WaveArray\bin\Debug\netcoreapp3.1\WaveArray.runtimeconfig.dev.json
+C:\WaveArray\bin\Debug\netcoreapp3.1\WaveArray.dll
+C:\WaveArray\bin\Debug\netcoreapp3.1\WaveArray.pdb
+C:\WaveArray\obj\Debug\netcoreapp3.1\WaveArray.dll
+C:\WaveArray\obj\Debug\netcoreapp3.1\WaveArray.pdb
+C:\WaveArray\obj\Debug\netcoreapp3.1\WaveArray.genruntimeconfig.cache

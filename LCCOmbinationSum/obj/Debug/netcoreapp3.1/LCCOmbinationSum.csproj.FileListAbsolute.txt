@@ -1,0 +1,13 @@
+C:\DSA Practice\LCCOmbinationSum\bin\Debug\netcoreapp3.1\LCCOmbinationSum.exe
+C:\DSA Practice\LCCOmbinationSum\bin\Debug\netcoreapp3.1\LCCOmbinationSum.deps.json
+C:\DSA Practice\LCCOmbinationSum\bin\Debug\netcoreapp3.1\LCCOmbinationSum.runtimeconfig.json
+C:\DSA Practice\LCCOmbinationSum\bin\Debug\netcoreapp3.1\LCCOmbinationSum.runtimeconfig.dev.json
+C:\DSA Practice\LCCOmbinationSum\bin\Debug\netcoreapp3.1\LCCOmbinationSum.dll
+C:\DSA Practice\LCCOmbinationSum\bin\Debug\netcoreapp3.1\LCCOmbinationSum.pdb
+C:\DSA Practice\LCCOmbinationSum\obj\Debug\netcoreapp3.1\LCCOmbinationSum.csprojAssemblyReference.cache
+C:\DSA Practice\LCCOmbinationSum\obj\Debug\netcoreapp3.1\LCCOmbinationSum.AssemblyInfoInputs.cache
+C:\DSA Practice\LCCOmbinationSum\obj\Debug\netcoreapp3.1\LCCOmbinationSum.AssemblyInfo.cs
+C:\DSA Practice\LCCOmbinationSum\obj\Debug\netcoreapp3.1\LCCOmbinationSum.csproj.CoreCompileInputs.cache
+C:\DSA Practice\LCCOmbinationSum\obj\Debug\netcoreapp3.1\LCCOmbinationSum.dll
+C:\DSA Practice\LCCOmbinationSum\obj\Debug\netcoreapp3.1\LCCOmbinationSum.pdb
+C:\DSA Practice\LCCOmbinationSum\obj\Debug\netcoreapp3.1\LCCOmbinationSum.genruntimeconfig.cache

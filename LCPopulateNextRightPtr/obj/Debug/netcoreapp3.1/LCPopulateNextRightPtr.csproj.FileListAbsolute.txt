@@ -1,0 +1,13 @@
+C:\DSA Practice\LCPopulateNextRightPtr\bin\Debug\netcoreapp3.1\LCPopulateNextRightPtr.exe
+C:\DSA Practice\LCPopulateNextRightPtr\bin\Debug\netcoreapp3.1\LCPopulateNextRightPtr.deps.json
+C:\DSA Practice\LCPopulateNextRightPtr\bin\Debug\netcoreapp3.1\LCPopulateNextRightPtr.runtimeconfig.json
+C:\DSA Practice\LCPopulateNextRightPtr\bin\Debug\netcoreapp3.1\LCPopulateNextRightPtr.runtimeconfig.dev.json
+C:\DSA Practice\LCPopulateNextRightPtr\bin\Debug\netcoreapp3.1\LCPopulateNextRightPtr.dll
+C:\DSA Practice\LCPopulateNextRightPtr\bin\Debug\netcoreapp3.1\LCPopulateNextRightPtr.pdb
+C:\DSA Practice\LCPopulateNextRightPtr\obj\Debug\netcoreapp3.1\LCPopulateNextRightPtr.csprojAssemblyReference.cache
+C:\DSA Practice\LCPopulateNextRightPtr\obj\Debug\netcoreapp3.1\LCPopulateNextRightPtr.AssemblyInfoInputs.cache
+C:\DSA Practice\LCPopulateNextRightPtr\obj\Debug\netcoreapp3.1\LCPopulateNextRightPtr.AssemblyInfo.cs
+C:\DSA Practice\LCPopulateNextRightPtr\obj\Debug\netcoreapp3.1\LCPopulateNextRightPtr.csproj.CoreCompileInputs.cache
+C:\DSA Practice\LCPopulateNextRightPtr\obj\Debug\netcoreapp3.1\LCPopulateNextRightPtr.dll
+C:\DSA Practice\LCPopulateNextRightPtr\obj\Debug\netcoreapp3.1\LCPopulateNextRightPtr.pdb
+C:\DSA Practice\LCPopulateNextRightPtr\obj\Debug\netcoreapp3.1\LCPopulateNextRightPtr.genruntimeconfig.cache

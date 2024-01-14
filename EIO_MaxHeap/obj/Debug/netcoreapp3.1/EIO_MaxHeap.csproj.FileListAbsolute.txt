@@ -1,0 +1,13 @@
+C:\DSA Practice\EIO_MaxHeap\bin\Debug\netcoreapp3.1\EIO_MaxHeap.exe
+C:\DSA Practice\EIO_MaxHeap\bin\Debug\netcoreapp3.1\EIO_MaxHeap.deps.json
+C:\DSA Practice\EIO_MaxHeap\bin\Debug\netcoreapp3.1\EIO_MaxHeap.runtimeconfig.json
+C:\DSA Practice\EIO_MaxHeap\bin\Debug\netcoreapp3.1\EIO_MaxHeap.runtimeconfig.dev.json
+C:\DSA Practice\EIO_MaxHeap\bin\Debug\netcoreapp3.1\EIO_MaxHeap.dll
+C:\DSA Practice\EIO_MaxHeap\bin\Debug\netcoreapp3.1\EIO_MaxHeap.pdb
+C:\DSA Practice\EIO_MaxHeap\obj\Debug\netcoreapp3.1\EIO_MaxHeap.csprojAssemblyReference.cache
+C:\DSA Practice\EIO_MaxHeap\obj\Debug\netcoreapp3.1\EIO_MaxHeap.AssemblyInfoInputs.cache
+C:\DSA Practice\EIO_MaxHeap\obj\Debug\netcoreapp3.1\EIO_MaxHeap.AssemblyInfo.cs
+C:\DSA Practice\EIO_MaxHeap\obj\Debug\netcoreapp3.1\EIO_MaxHeap.csproj.CoreCompileInputs.cache
+C:\DSA Practice\EIO_MaxHeap\obj\Debug\netcoreapp3.1\EIO_MaxHeap.dll
+C:\DSA Practice\EIO_MaxHeap\obj\Debug\netcoreapp3.1\EIO_MaxHeap.pdb
+C:\DSA Practice\EIO_MaxHeap\obj\Debug\netcoreapp3.1\EIO_MaxHeap.genruntimeconfig.cache

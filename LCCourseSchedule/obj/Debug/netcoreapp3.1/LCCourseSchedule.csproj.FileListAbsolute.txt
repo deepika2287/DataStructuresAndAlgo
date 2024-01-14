@@ -1,0 +1,13 @@
+C:\DSA Practice\LCCourseSchedule\bin\Debug\netcoreapp3.1\LCCourseSchedule.exe
+C:\DSA Practice\LCCourseSchedule\bin\Debug\netcoreapp3.1\LCCourseSchedule.deps.json
+C:\DSA Practice\LCCourseSchedule\bin\Debug\netcoreapp3.1\LCCourseSchedule.runtimeconfig.json
+C:\DSA Practice\LCCourseSchedule\bin\Debug\netcoreapp3.1\LCCourseSchedule.runtimeconfig.dev.json
+C:\DSA Practice\LCCourseSchedule\bin\Debug\netcoreapp3.1\LCCourseSchedule.dll
+C:\DSA Practice\LCCourseSchedule\bin\Debug\netcoreapp3.1\LCCourseSchedule.pdb
+C:\DSA Practice\LCCourseSchedule\obj\Debug\netcoreapp3.1\LCCourseSchedule.csprojAssemblyReference.cache
+C:\DSA Practice\LCCourseSchedule\obj\Debug\netcoreapp3.1\LCCourseSchedule.AssemblyInfoInputs.cache
+C:\DSA Practice\LCCourseSchedule\obj\Debug\netcoreapp3.1\LCCourseSchedule.AssemblyInfo.cs
+C:\DSA Practice\LCCourseSchedule\obj\Debug\netcoreapp3.1\LCCourseSchedule.csproj.CoreCompileInputs.cache
+C:\DSA Practice\LCCourseSchedule\obj\Debug\netcoreapp3.1\LCCourseSchedule.dll
+C:\DSA Practice\LCCourseSchedule\obj\Debug\netcoreapp3.1\LCCourseSchedule.pdb
+C:\DSA Practice\LCCourseSchedule\obj\Debug\netcoreapp3.1\LCCourseSchedule.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\DSA Practice\LCRotatematrix\bin\Debug\netcoreapp3.1\LCRotatematrix.exe
+C:\DSA Practice\LCRotatematrix\bin\Debug\netcoreapp3.1\LCRotatematrix.deps.json
+C:\DSA Practice\LCRotatematrix\bin\Debug\netcoreapp3.1\LCRotatematrix.runtimeconfig.json
+C:\DSA Practice\LCRotatematrix\bin\Debug\netcoreapp3.1\LCRotatematrix.runtimeconfig.dev.json
+C:\DSA Practice\LCRotatematrix\bin\Debug\netcoreapp3.1\LCRotatematrix.dll
+C:\DSA Practice\LCRotatematrix\bin\Debug\netcoreapp3.1\LCRotatematrix.pdb
+C:\DSA Practice\LCRotatematrix\obj\Debug\netcoreapp3.1\LCRotatematrix.csprojAssemblyReference.cache
+C:\DSA Practice\LCRotatematrix\obj\Debug\netcoreapp3.1\LCRotatematrix.AssemblyInfoInputs.cache
+C:\DSA Practice\LCRotatematrix\obj\Debug\netcoreapp3.1\LCRotatematrix.AssemblyInfo.cs
+C:\DSA Practice\LCRotatematrix\obj\Debug\netcoreapp3.1\LCRotatematrix.csproj.CoreCompileInputs.cache
+C:\DSA Practice\LCRotatematrix\obj\Debug\netcoreapp3.1\LCRotatematrix.dll
+C:\DSA Practice\LCRotatematrix\obj\Debug\netcoreapp3.1\LCRotatematrix.pdb
+C:\DSA Practice\LCRotatematrix\obj\Debug\netcoreapp3.1\LCRotatematrix.genruntimeconfig.cache
