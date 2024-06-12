@@ -1,0 +1,15 @@
+c:\DSA Practice\LCMinCostToConnectSticks\bin\Debug\net8.0\LCMinCostToConnectSticks.exe
+c:\DSA Practice\LCMinCostToConnectSticks\bin\Debug\net8.0\LCMinCostToConnectSticks.deps.json
+c:\DSA Practice\LCMinCostToConnectSticks\bin\Debug\net8.0\LCMinCostToConnectSticks.runtimeconfig.json
+c:\DSA Practice\LCMinCostToConnectSticks\bin\Debug\net8.0\LCMinCostToConnectSticks.dll
+c:\DSA Practice\LCMinCostToConnectSticks\bin\Debug\net8.0\LCMinCostToConnectSticks.pdb
+c:\DSA Practice\LCMinCostToConnectSticks\obj\Debug\net8.0\LCMinCostToConnectSticks.GeneratedMSBuildEditorConfig.editorconfig
+c:\DSA Practice\LCMinCostToConnectSticks\obj\Debug\net8.0\LCMinCostToConnectSticks.AssemblyInfoInputs.cache
+c:\DSA Practice\LCMinCostToConnectSticks\obj\Debug\net8.0\LCMinCostToConnectSticks.AssemblyInfo.cs
+c:\DSA Practice\LCMinCostToConnectSticks\obj\Debug\net8.0\LCMinCostToConnectSticks.csproj.CoreCompileInputs.cache
+c:\DSA Practice\LCMinCostToConnectSticks\obj\Debug\net8.0\LCMinCostToConnectSticks.sourcelink.json
+c:\DSA Practice\LCMinCostToConnectSticks\obj\Debug\net8.0\LCMinCostToConnectSticks.dll
+c:\DSA Practice\LCMinCostToConnectSticks\obj\Debug\net8.0\refint\LCMinCostToConnectSticks.dll
+c:\DSA Practice\LCMinCostToConnectSticks\obj\Debug\net8.0\LCMinCostToConnectSticks.pdb
+c:\DSA Practice\LCMinCostToConnectSticks\obj\Debug\net8.0\LCMinCostToConnectSticks.genruntimeconfig.cache
+c:\DSA Practice\LCMinCostToConnectSticks\obj\Debug\net8.0\ref\LCMinCostToConnectSticks.dll

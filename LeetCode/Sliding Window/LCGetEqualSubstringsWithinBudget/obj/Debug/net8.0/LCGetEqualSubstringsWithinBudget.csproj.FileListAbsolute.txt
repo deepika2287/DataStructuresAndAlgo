@@ -1,0 +1,15 @@
+c:\DSA Practice\LCGetEqualSubstringsWithinBudget\bin\Debug\net8.0\LCGetEqualSubstringsWithinBudget.exe
+c:\DSA Practice\LCGetEqualSubstringsWithinBudget\bin\Debug\net8.0\LCGetEqualSubstringsWithinBudget.deps.json
+c:\DSA Practice\LCGetEqualSubstringsWithinBudget\bin\Debug\net8.0\LCGetEqualSubstringsWithinBudget.runtimeconfig.json
+c:\DSA Practice\LCGetEqualSubstringsWithinBudget\bin\Debug\net8.0\LCGetEqualSubstringsWithinBudget.dll
+c:\DSA Practice\LCGetEqualSubstringsWithinBudget\bin\Debug\net8.0\LCGetEqualSubstringsWithinBudget.pdb
+c:\DSA Practice\LCGetEqualSubstringsWithinBudget\obj\Debug\net8.0\LCGetEqualSubstringsWithinBudget.GeneratedMSBuildEditorConfig.editorconfig
+c:\DSA Practice\LCGetEqualSubstringsWithinBudget\obj\Debug\net8.0\LCGetEqualSubstringsWithinBudget.AssemblyInfoInputs.cache
+c:\DSA Practice\LCGetEqualSubstringsWithinBudget\obj\Debug\net8.0\LCGetEqualSubstringsWithinBudget.AssemblyInfo.cs
+c:\DSA Practice\LCGetEqualSubstringsWithinBudget\obj\Debug\net8.0\LCGetEqualSubstringsWithinBudget.csproj.CoreCompileInputs.cache
+c:\DSA Practice\LCGetEqualSubstringsWithinBudget\obj\Debug\net8.0\LCGetEqualSubstringsWithinBudget.sourcelink.json
+c:\DSA Practice\LCGetEqualSubstringsWithinBudget\obj\Debug\net8.0\LCGetEqualSubstringsWithinBudget.dll
+c:\DSA Practice\LCGetEqualSubstringsWithinBudget\obj\Debug\net8.0\refint\LCGetEqualSubstringsWithinBudget.dll
+c:\DSA Practice\LCGetEqualSubstringsWithinBudget\obj\Debug\net8.0\LCGetEqualSubstringsWithinBudget.pdb
+c:\DSA Practice\LCGetEqualSubstringsWithinBudget\obj\Debug\net8.0\LCGetEqualSubstringsWithinBudget.genruntimeconfig.cache
+c:\DSA Practice\LCGetEqualSubstringsWithinBudget\obj\Debug\net8.0\ref\LCGetEqualSubstringsWithinBudget.dll

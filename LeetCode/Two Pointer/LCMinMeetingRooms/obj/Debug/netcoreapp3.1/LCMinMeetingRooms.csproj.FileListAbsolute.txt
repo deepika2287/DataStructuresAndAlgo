@@ -1,0 +1,13 @@
+C:\DSA Practice\LCMinMeetingRooms\bin\Debug\netcoreapp3.1\LCMinMeetingRooms.exe
+C:\DSA Practice\LCMinMeetingRooms\bin\Debug\netcoreapp3.1\LCMinMeetingRooms.deps.json
+C:\DSA Practice\LCMinMeetingRooms\bin\Debug\netcoreapp3.1\LCMinMeetingRooms.runtimeconfig.json
+C:\DSA Practice\LCMinMeetingRooms\bin\Debug\netcoreapp3.1\LCMinMeetingRooms.runtimeconfig.dev.json
+C:\DSA Practice\LCMinMeetingRooms\bin\Debug\netcoreapp3.1\LCMinMeetingRooms.dll
+C:\DSA Practice\LCMinMeetingRooms\bin\Debug\netcoreapp3.1\LCMinMeetingRooms.pdb
+C:\DSA Practice\LCMinMeetingRooms\obj\Debug\netcoreapp3.1\LCMinMeetingRooms.csprojAssemblyReference.cache
+C:\DSA Practice\LCMinMeetingRooms\obj\Debug\netcoreapp3.1\LCMinMeetingRooms.AssemblyInfoInputs.cache
+C:\DSA Practice\LCMinMeetingRooms\obj\Debug\netcoreapp3.1\LCMinMeetingRooms.AssemblyInfo.cs
+C:\DSA Practice\LCMinMeetingRooms\obj\Debug\netcoreapp3.1\LCMinMeetingRooms.csproj.CoreCompileInputs.cache
+C:\DSA Practice\LCMinMeetingRooms\obj\Debug\netcoreapp3.1\LCMinMeetingRooms.dll
+C:\DSA Practice\LCMinMeetingRooms\obj\Debug\netcoreapp3.1\LCMinMeetingRooms.pdb
+C:\DSA Practice\LCMinMeetingRooms\obj\Debug\netcoreapp3.1\LCMinMeetingRooms.genruntimeconfig.cache

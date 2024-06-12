@@ -1,0 +1,15 @@
+c:\DSA Practice\LCDeleteLeafNodesWithTargetValue\obj\Debug\net8.0\LCDeleteLeafNodesWithTargetValue.GeneratedMSBuildEditorConfig.editorconfig
+c:\DSA Practice\LCDeleteLeafNodesWithTargetValue\obj\Debug\net8.0\LCDeleteLeafNodesWithTargetValue.AssemblyInfoInputs.cache
+c:\DSA Practice\LCDeleteLeafNodesWithTargetValue\obj\Debug\net8.0\LCDeleteLeafNodesWithTargetValue.AssemblyInfo.cs
+c:\DSA Practice\LCDeleteLeafNodesWithTargetValue\obj\Debug\net8.0\LCDeleteLeafNodesWithTargetValue.csproj.CoreCompileInputs.cache
+c:\DSA Practice\LCDeleteLeafNodesWithTargetValue\obj\Debug\net8.0\LCDeleteLeafNodesWithTargetValue.sourcelink.json
+c:\DSA Practice\LCDeleteLeafNodesWithTargetValue\bin\Debug\net8.0\LCDeleteLeafNodesWithTargetValue.exe
+c:\DSA Practice\LCDeleteLeafNodesWithTargetValue\bin\Debug\net8.0\LCDeleteLeafNodesWithTargetValue.deps.json
+c:\DSA Practice\LCDeleteLeafNodesWithTargetValue\bin\Debug\net8.0\LCDeleteLeafNodesWithTargetValue.runtimeconfig.json
+c:\DSA Practice\LCDeleteLeafNodesWithTargetValue\bin\Debug\net8.0\LCDeleteLeafNodesWithTargetValue.dll
+c:\DSA Practice\LCDeleteLeafNodesWithTargetValue\bin\Debug\net8.0\LCDeleteLeafNodesWithTargetValue.pdb
+c:\DSA Practice\LCDeleteLeafNodesWithTargetValue\obj\Debug\net8.0\LCDeleteLeafNodesWithTargetValue.dll
+c:\DSA Practice\LCDeleteLeafNodesWithTargetValue\obj\Debug\net8.0\refint\LCDeleteLeafNodesWithTargetValue.dll
+c:\DSA Practice\LCDeleteLeafNodesWithTargetValue\obj\Debug\net8.0\LCDeleteLeafNodesWithTargetValue.pdb
+c:\DSA Practice\LCDeleteLeafNodesWithTargetValue\obj\Debug\net8.0\LCDeleteLeafNodesWithTargetValue.genruntimeconfig.cache
+c:\DSA Practice\LCDeleteLeafNodesWithTargetValue\obj\Debug\net8.0\ref\LCDeleteLeafNodesWithTargetValue.dll

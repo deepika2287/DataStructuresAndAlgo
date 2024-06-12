@@ -1,0 +1,15 @@
+c:\DSA Practice\LCTargetSum\bin\Debug\net8.0\LCTargetSum.exe
+c:\DSA Practice\LCTargetSum\bin\Debug\net8.0\LCTargetSum.deps.json
+c:\DSA Practice\LCTargetSum\bin\Debug\net8.0\LCTargetSum.runtimeconfig.json
+c:\DSA Practice\LCTargetSum\bin\Debug\net8.0\LCTargetSum.dll
+c:\DSA Practice\LCTargetSum\bin\Debug\net8.0\LCTargetSum.pdb
+c:\DSA Practice\LCTargetSum\obj\Debug\net8.0\LCTargetSum.GeneratedMSBuildEditorConfig.editorconfig
+c:\DSA Practice\LCTargetSum\obj\Debug\net8.0\LCTargetSum.AssemblyInfoInputs.cache
+c:\DSA Practice\LCTargetSum\obj\Debug\net8.0\LCTargetSum.AssemblyInfo.cs
+c:\DSA Practice\LCTargetSum\obj\Debug\net8.0\LCTargetSum.csproj.CoreCompileInputs.cache
+c:\DSA Practice\LCTargetSum\obj\Debug\net8.0\LCTargetSum.sourcelink.json
+c:\DSA Practice\LCTargetSum\obj\Debug\net8.0\LCTargetSum.dll
+c:\DSA Practice\LCTargetSum\obj\Debug\net8.0\refint\LCTargetSum.dll
+c:\DSA Practice\LCTargetSum\obj\Debug\net8.0\LCTargetSum.pdb
+c:\DSA Practice\LCTargetSum\obj\Debug\net8.0\LCTargetSum.genruntimeconfig.cache
+c:\DSA Practice\LCTargetSum\obj\Debug\net8.0\ref\LCTargetSum.dll

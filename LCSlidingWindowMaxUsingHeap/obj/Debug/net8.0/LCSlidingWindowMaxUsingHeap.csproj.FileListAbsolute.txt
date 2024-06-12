@@ -1,0 +1,15 @@
+c:\DSA Practice\LCSlidingWindowMaxUsingHeap\bin\Debug\net8.0\LCSlidingWindowMaxUsingHeap.exe
+c:\DSA Practice\LCSlidingWindowMaxUsingHeap\bin\Debug\net8.0\LCSlidingWindowMaxUsingHeap.deps.json
+c:\DSA Practice\LCSlidingWindowMaxUsingHeap\bin\Debug\net8.0\LCSlidingWindowMaxUsingHeap.runtimeconfig.json
+c:\DSA Practice\LCSlidingWindowMaxUsingHeap\bin\Debug\net8.0\LCSlidingWindowMaxUsingHeap.dll
+c:\DSA Practice\LCSlidingWindowMaxUsingHeap\bin\Debug\net8.0\LCSlidingWindowMaxUsingHeap.pdb
+c:\DSA Practice\LCSlidingWindowMaxUsingHeap\obj\Debug\net8.0\LCSlidingWindowMaxUsingHeap.GeneratedMSBuildEditorConfig.editorconfig
+c:\DSA Practice\LCSlidingWindowMaxUsingHeap\obj\Debug\net8.0\LCSlidingWindowMaxUsingHeap.AssemblyInfoInputs.cache
+c:\DSA Practice\LCSlidingWindowMaxUsingHeap\obj\Debug\net8.0\LCSlidingWindowMaxUsingHeap.AssemblyInfo.cs
+c:\DSA Practice\LCSlidingWindowMaxUsingHeap\obj\Debug\net8.0\LCSlidingWindowMaxUsingHeap.csproj.CoreCompileInputs.cache
+c:\DSA Practice\LCSlidingWindowMaxUsingHeap\obj\Debug\net8.0\LCSlidingWindowMaxUsingHeap.sourcelink.json
+c:\DSA Practice\LCSlidingWindowMaxUsingHeap\obj\Debug\net8.0\LCSlidingWindowMaxUsingHeap.dll
+c:\DSA Practice\LCSlidingWindowMaxUsingHeap\obj\Debug\net8.0\refint\LCSlidingWindowMaxUsingHeap.dll
+c:\DSA Practice\LCSlidingWindowMaxUsingHeap\obj\Debug\net8.0\LCSlidingWindowMaxUsingHeap.pdb
+c:\DSA Practice\LCSlidingWindowMaxUsingHeap\obj\Debug\net8.0\LCSlidingWindowMaxUsingHeap.genruntimeconfig.cache
+c:\DSA Practice\LCSlidingWindowMaxUsingHeap\obj\Debug\net8.0\ref\LCSlidingWindowMaxUsingHeap.dll

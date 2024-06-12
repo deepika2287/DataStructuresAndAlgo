@@ -1,0 +1,15 @@
+c:\DSA Practice\LCUniquePaths\bin\Debug\net8.0\LCUniquePaths.exe
+c:\DSA Practice\LCUniquePaths\bin\Debug\net8.0\LCUniquePaths.deps.json
+c:\DSA Practice\LCUniquePaths\bin\Debug\net8.0\LCUniquePaths.runtimeconfig.json
+c:\DSA Practice\LCUniquePaths\bin\Debug\net8.0\LCUniquePaths.dll
+c:\DSA Practice\LCUniquePaths\bin\Debug\net8.0\LCUniquePaths.pdb
+c:\DSA Practice\LCUniquePaths\obj\Debug\net8.0\LCUniquePaths.GeneratedMSBuildEditorConfig.editorconfig
+c:\DSA Practice\LCUniquePaths\obj\Debug\net8.0\LCUniquePaths.AssemblyInfoInputs.cache
+c:\DSA Practice\LCUniquePaths\obj\Debug\net8.0\LCUniquePaths.AssemblyInfo.cs
+c:\DSA Practice\LCUniquePaths\obj\Debug\net8.0\LCUniquePaths.csproj.CoreCompileInputs.cache
+c:\DSA Practice\LCUniquePaths\obj\Debug\net8.0\LCUniquePaths.sourcelink.json
+c:\DSA Practice\LCUniquePaths\obj\Debug\net8.0\LCUniquePaths.dll
+c:\DSA Practice\LCUniquePaths\obj\Debug\net8.0\refint\LCUniquePaths.dll
+c:\DSA Practice\LCUniquePaths\obj\Debug\net8.0\LCUniquePaths.pdb
+c:\DSA Practice\LCUniquePaths\obj\Debug\net8.0\LCUniquePaths.genruntimeconfig.cache
+c:\DSA Practice\LCUniquePaths\obj\Debug\net8.0\ref\LCUniquePaths.dll

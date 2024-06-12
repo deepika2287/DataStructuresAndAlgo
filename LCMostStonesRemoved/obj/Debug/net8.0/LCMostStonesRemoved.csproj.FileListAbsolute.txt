@@ -1,0 +1,15 @@
+c:\DSA Practice\LCMostStonesRemoved\bin\Debug\net8.0\LCMostStonesRemoved.exe
+c:\DSA Practice\LCMostStonesRemoved\bin\Debug\net8.0\LCMostStonesRemoved.deps.json
+c:\DSA Practice\LCMostStonesRemoved\bin\Debug\net8.0\LCMostStonesRemoved.runtimeconfig.json
+c:\DSA Practice\LCMostStonesRemoved\bin\Debug\net8.0\LCMostStonesRemoved.dll
+c:\DSA Practice\LCMostStonesRemoved\bin\Debug\net8.0\LCMostStonesRemoved.pdb
+c:\DSA Practice\LCMostStonesRemoved\obj\Debug\net8.0\LCMostStonesRemoved.GeneratedMSBuildEditorConfig.editorconfig
+c:\DSA Practice\LCMostStonesRemoved\obj\Debug\net8.0\LCMostStonesRemoved.AssemblyInfoInputs.cache
+c:\DSA Practice\LCMostStonesRemoved\obj\Debug\net8.0\LCMostStonesRemoved.AssemblyInfo.cs
+c:\DSA Practice\LCMostStonesRemoved\obj\Debug\net8.0\LCMostStonesRemoved.csproj.CoreCompileInputs.cache
+c:\DSA Practice\LCMostStonesRemoved\obj\Debug\net8.0\LCMostStonesRemoved.sourcelink.json
+c:\DSA Practice\LCMostStonesRemoved\obj\Debug\net8.0\LCMostStonesRemoved.dll
+c:\DSA Practice\LCMostStonesRemoved\obj\Debug\net8.0\refint\LCMostStonesRemoved.dll
+c:\DSA Practice\LCMostStonesRemoved\obj\Debug\net8.0\LCMostStonesRemoved.pdb
+c:\DSA Practice\LCMostStonesRemoved\obj\Debug\net8.0\LCMostStonesRemoved.genruntimeconfig.cache
+c:\DSA Practice\LCMostStonesRemoved\obj\Debug\net8.0\ref\LCMostStonesRemoved.dll

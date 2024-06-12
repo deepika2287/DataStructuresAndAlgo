@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "LCShortestPathCalc/1.0.0": {
+        "runtime": {
+          "LCShortestPathCalc.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LCShortestPathCalc/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

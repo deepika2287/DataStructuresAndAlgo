@@ -1,0 +1,15 @@
+c:\DSA Practice\LCOnesandZeroes\bin\Debug\net8.0\LCOnesandZeroes.exe
+c:\DSA Practice\LCOnesandZeroes\bin\Debug\net8.0\LCOnesandZeroes.deps.json
+c:\DSA Practice\LCOnesandZeroes\bin\Debug\net8.0\LCOnesandZeroes.runtimeconfig.json
+c:\DSA Practice\LCOnesandZeroes\bin\Debug\net8.0\LCOnesandZeroes.dll
+c:\DSA Practice\LCOnesandZeroes\bin\Debug\net8.0\LCOnesandZeroes.pdb
+c:\DSA Practice\LCOnesandZeroes\obj\Debug\net8.0\LCOnesandZeroes.GeneratedMSBuildEditorConfig.editorconfig
+c:\DSA Practice\LCOnesandZeroes\obj\Debug\net8.0\LCOnesandZeroes.AssemblyInfoInputs.cache
+c:\DSA Practice\LCOnesandZeroes\obj\Debug\net8.0\LCOnesandZeroes.AssemblyInfo.cs
+c:\DSA Practice\LCOnesandZeroes\obj\Debug\net8.0\LCOnesandZeroes.csproj.CoreCompileInputs.cache
+c:\DSA Practice\LCOnesandZeroes\obj\Debug\net8.0\LCOnesandZeroes.sourcelink.json
+c:\DSA Practice\LCOnesandZeroes\obj\Debug\net8.0\LCOnesandZeroes.dll
+c:\DSA Practice\LCOnesandZeroes\obj\Debug\net8.0\refint\LCOnesandZeroes.dll
+c:\DSA Practice\LCOnesandZeroes\obj\Debug\net8.0\LCOnesandZeroes.pdb
+c:\DSA Practice\LCOnesandZeroes\obj\Debug\net8.0\LCOnesandZeroes.genruntimeconfig.cache
+c:\DSA Practice\LCOnesandZeroes\obj\Debug\net8.0\ref\LCOnesandZeroes.dll

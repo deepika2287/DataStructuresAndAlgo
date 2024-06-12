@@ -1,0 +1,15 @@
+c:\DSA Practice\LCShortestPathCalc\bin\Debug\net8.0\LCShortestPathCalc.exe
+c:\DSA Practice\LCShortestPathCalc\bin\Debug\net8.0\LCShortestPathCalc.deps.json
+c:\DSA Practice\LCShortestPathCalc\bin\Debug\net8.0\LCShortestPathCalc.runtimeconfig.json
+c:\DSA Practice\LCShortestPathCalc\bin\Debug\net8.0\LCShortestPathCalc.dll
+c:\DSA Practice\LCShortestPathCalc\bin\Debug\net8.0\LCShortestPathCalc.pdb
+c:\DSA Practice\LCShortestPathCalc\obj\Debug\net8.0\LCShortestPathCalc.GeneratedMSBuildEditorConfig.editorconfig
+c:\DSA Practice\LCShortestPathCalc\obj\Debug\net8.0\LCShortestPathCalc.AssemblyInfoInputs.cache
+c:\DSA Practice\LCShortestPathCalc\obj\Debug\net8.0\LCShortestPathCalc.AssemblyInfo.cs
+c:\DSA Practice\LCShortestPathCalc\obj\Debug\net8.0\LCShortestPathCalc.csproj.CoreCompileInputs.cache
+c:\DSA Practice\LCShortestPathCalc\obj\Debug\net8.0\LCShortestPathCalc.sourcelink.json
+c:\DSA Practice\LCShortestPathCalc\obj\Debug\net8.0\LCShortestPathCalc.dll
+c:\DSA Practice\LCShortestPathCalc\obj\Debug\net8.0\refint\LCShortestPathCalc.dll
+c:\DSA Practice\LCShortestPathCalc\obj\Debug\net8.0\LCShortestPathCalc.pdb
+c:\DSA Practice\LCShortestPathCalc\obj\Debug\net8.0\LCShortestPathCalc.genruntimeconfig.cache
+c:\DSA Practice\LCShortestPathCalc\obj\Debug\net8.0\ref\LCShortestPathCalc.dll

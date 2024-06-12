@@ -1,0 +1,15 @@
+c:\DSA Practice\LCMinNumOfRefuelingStops\bin\Debug\net8.0\LCMinNumOfRefuelingStops.exe
+c:\DSA Practice\LCMinNumOfRefuelingStops\bin\Debug\net8.0\LCMinNumOfRefuelingStops.deps.json
+c:\DSA Practice\LCMinNumOfRefuelingStops\bin\Debug\net8.0\LCMinNumOfRefuelingStops.runtimeconfig.json
+c:\DSA Practice\LCMinNumOfRefuelingStops\bin\Debug\net8.0\LCMinNumOfRefuelingStops.dll
+c:\DSA Practice\LCMinNumOfRefuelingStops\bin\Debug\net8.0\LCMinNumOfRefuelingStops.pdb
+c:\DSA Practice\LCMinNumOfRefuelingStops\obj\Debug\net8.0\LCMinNumOfRefuelingStops.GeneratedMSBuildEditorConfig.editorconfig
+c:\DSA Practice\LCMinNumOfRefuelingStops\obj\Debug\net8.0\LCMinNumOfRefuelingStops.AssemblyInfoInputs.cache
+c:\DSA Practice\LCMinNumOfRefuelingStops\obj\Debug\net8.0\LCMinNumOfRefuelingStops.AssemblyInfo.cs
+c:\DSA Practice\LCMinNumOfRefuelingStops\obj\Debug\net8.0\LCMinNumOfRefuelingStops.csproj.CoreCompileInputs.cache
+c:\DSA Practice\LCMinNumOfRefuelingStops\obj\Debug\net8.0\LCMinNumOfRefuelingStops.sourcelink.json
+c:\DSA Practice\LCMinNumOfRefuelingStops\obj\Debug\net8.0\LCMinNumOfRefuelingStops.dll
+c:\DSA Practice\LCMinNumOfRefuelingStops\obj\Debug\net8.0\refint\LCMinNumOfRefuelingStops.dll
+c:\DSA Practice\LCMinNumOfRefuelingStops\obj\Debug\net8.0\LCMinNumOfRefuelingStops.pdb
+c:\DSA Practice\LCMinNumOfRefuelingStops\obj\Debug\net8.0\LCMinNumOfRefuelingStops.genruntimeconfig.cache
+c:\DSA Practice\LCMinNumOfRefuelingStops\obj\Debug\net8.0\ref\LCMinNumOfRefuelingStops.dll

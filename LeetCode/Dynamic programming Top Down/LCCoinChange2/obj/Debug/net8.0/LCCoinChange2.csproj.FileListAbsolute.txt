@@ -1,0 +1,15 @@
+c:\DSA Practice\LCCoinChange2\bin\Debug\net8.0\LCCoinChange2.exe
+c:\DSA Practice\LCCoinChange2\bin\Debug\net8.0\LCCoinChange2.deps.json
+c:\DSA Practice\LCCoinChange2\bin\Debug\net8.0\LCCoinChange2.runtimeconfig.json
+c:\DSA Practice\LCCoinChange2\bin\Debug\net8.0\LCCoinChange2.dll
+c:\DSA Practice\LCCoinChange2\bin\Debug\net8.0\LCCoinChange2.pdb
+c:\DSA Practice\LCCoinChange2\obj\Debug\net8.0\LCCoinChange2.GeneratedMSBuildEditorConfig.editorconfig
+c:\DSA Practice\LCCoinChange2\obj\Debug\net8.0\LCCoinChange2.AssemblyInfoInputs.cache
+c:\DSA Practice\LCCoinChange2\obj\Debug\net8.0\LCCoinChange2.AssemblyInfo.cs
+c:\DSA Practice\LCCoinChange2\obj\Debug\net8.0\LCCoinChange2.csproj.CoreCompileInputs.cache
+c:\DSA Practice\LCCoinChange2\obj\Debug\net8.0\LCCoinChange2.sourcelink.json
+c:\DSA Practice\LCCoinChange2\obj\Debug\net8.0\LCCoinChange2.dll
+c:\DSA Practice\LCCoinChange2\obj\Debug\net8.0\refint\LCCoinChange2.dll
+c:\DSA Practice\LCCoinChange2\obj\Debug\net8.0\LCCoinChange2.pdb
+c:\DSA Practice\LCCoinChange2\obj\Debug\net8.0\LCCoinChange2.genruntimeconfig.cache
+c:\DSA Practice\LCCoinChange2\obj\Debug\net8.0\ref\LCCoinChange2.dll

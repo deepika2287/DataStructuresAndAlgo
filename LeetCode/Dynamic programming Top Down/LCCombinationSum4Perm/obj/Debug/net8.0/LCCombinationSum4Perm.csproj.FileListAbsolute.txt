@@ -1,0 +1,15 @@
+c:\DSA Practice\LCCombinationSum4Perm\bin\Debug\net8.0\LCCombinationSum4Perm.exe
+c:\DSA Practice\LCCombinationSum4Perm\bin\Debug\net8.0\LCCombinationSum4Perm.deps.json
+c:\DSA Practice\LCCombinationSum4Perm\bin\Debug\net8.0\LCCombinationSum4Perm.runtimeconfig.json
+c:\DSA Practice\LCCombinationSum4Perm\bin\Debug\net8.0\LCCombinationSum4Perm.dll
+c:\DSA Practice\LCCombinationSum4Perm\bin\Debug\net8.0\LCCombinationSum4Perm.pdb
+c:\DSA Practice\LCCombinationSum4Perm\obj\Debug\net8.0\LCCombinationSum4Perm.GeneratedMSBuildEditorConfig.editorconfig
+c:\DSA Practice\LCCombinationSum4Perm\obj\Debug\net8.0\LCCombinationSum4Perm.AssemblyInfoInputs.cache
+c:\DSA Practice\LCCombinationSum4Perm\obj\Debug\net8.0\LCCombinationSum4Perm.AssemblyInfo.cs
+c:\DSA Practice\LCCombinationSum4Perm\obj\Debug\net8.0\LCCombinationSum4Perm.csproj.CoreCompileInputs.cache
+c:\DSA Practice\LCCombinationSum4Perm\obj\Debug\net8.0\LCCombinationSum4Perm.sourcelink.json
+c:\DSA Practice\LCCombinationSum4Perm\obj\Debug\net8.0\LCCombinationSum4Perm.dll
+c:\DSA Practice\LCCombinationSum4Perm\obj\Debug\net8.0\refint\LCCombinationSum4Perm.dll
+c:\DSA Practice\LCCombinationSum4Perm\obj\Debug\net8.0\LCCombinationSum4Perm.pdb
+c:\DSA Practice\LCCombinationSum4Perm\obj\Debug\net8.0\LCCombinationSum4Perm.genruntimeconfig.cache
+c:\DSA Practice\LCCombinationSum4Perm\obj\Debug\net8.0\ref\LCCombinationSum4Perm.dll

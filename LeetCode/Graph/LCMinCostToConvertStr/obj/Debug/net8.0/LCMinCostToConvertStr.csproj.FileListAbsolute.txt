@@ -1,0 +1,15 @@
+c:\DSA Practice\LCMinCostToConvertStr\bin\Debug\net8.0\LCMinCostToConvertStr.exe
+c:\DSA Practice\LCMinCostToConvertStr\bin\Debug\net8.0\LCMinCostToConvertStr.deps.json
+c:\DSA Practice\LCMinCostToConvertStr\bin\Debug\net8.0\LCMinCostToConvertStr.runtimeconfig.json
+c:\DSA Practice\LCMinCostToConvertStr\bin\Debug\net8.0\LCMinCostToConvertStr.dll
+c:\DSA Practice\LCMinCostToConvertStr\bin\Debug\net8.0\LCMinCostToConvertStr.pdb
+c:\DSA Practice\LCMinCostToConvertStr\obj\Debug\net8.0\LCMinCostToConvertStr.GeneratedMSBuildEditorConfig.editorconfig
+c:\DSA Practice\LCMinCostToConvertStr\obj\Debug\net8.0\LCMinCostToConvertStr.AssemblyInfoInputs.cache
+c:\DSA Practice\LCMinCostToConvertStr\obj\Debug\net8.0\LCMinCostToConvertStr.AssemblyInfo.cs
+c:\DSA Practice\LCMinCostToConvertStr\obj\Debug\net8.0\LCMinCostToConvertStr.csproj.CoreCompileInputs.cache
+c:\DSA Practice\LCMinCostToConvertStr\obj\Debug\net8.0\LCMinCostToConvertStr.sourcelink.json
+c:\DSA Practice\LCMinCostToConvertStr\obj\Debug\net8.0\LCMinCostToConvertStr.dll
+c:\DSA Practice\LCMinCostToConvertStr\obj\Debug\net8.0\refint\LCMinCostToConvertStr.dll
+c:\DSA Practice\LCMinCostToConvertStr\obj\Debug\net8.0\LCMinCostToConvertStr.pdb
+c:\DSA Practice\LCMinCostToConvertStr\obj\Debug\net8.0\LCMinCostToConvertStr.genruntimeconfig.cache
+c:\DSA Practice\LCMinCostToConvertStr\obj\Debug\net8.0\ref\LCMinCostToConvertStr.dll

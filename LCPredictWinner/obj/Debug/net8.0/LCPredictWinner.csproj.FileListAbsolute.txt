@@ -1,0 +1,15 @@
+c:\DSA Practice\LCPredictWinner\bin\Debug\net8.0\LCPredictWinner.exe
+c:\DSA Practice\LCPredictWinner\bin\Debug\net8.0\LCPredictWinner.deps.json
+c:\DSA Practice\LCPredictWinner\bin\Debug\net8.0\LCPredictWinner.runtimeconfig.json
+c:\DSA Practice\LCPredictWinner\bin\Debug\net8.0\LCPredictWinner.dll
+c:\DSA Practice\LCPredictWinner\bin\Debug\net8.0\LCPredictWinner.pdb
+c:\DSA Practice\LCPredictWinner\obj\Debug\net8.0\LCPredictWinner.GeneratedMSBuildEditorConfig.editorconfig
+c:\DSA Practice\LCPredictWinner\obj\Debug\net8.0\LCPredictWinner.AssemblyInfoInputs.cache
+c:\DSA Practice\LCPredictWinner\obj\Debug\net8.0\LCPredictWinner.AssemblyInfo.cs
+c:\DSA Practice\LCPredictWinner\obj\Debug\net8.0\LCPredictWinner.csproj.CoreCompileInputs.cache
+c:\DSA Practice\LCPredictWinner\obj\Debug\net8.0\LCPredictWinner.sourcelink.json
+c:\DSA Practice\LCPredictWinner\obj\Debug\net8.0\LCPredictWinner.dll
+c:\DSA Practice\LCPredictWinner\obj\Debug\net8.0\refint\LCPredictWinner.dll
+c:\DSA Practice\LCPredictWinner\obj\Debug\net8.0\LCPredictWinner.pdb
+c:\DSA Practice\LCPredictWinner\obj\Debug\net8.0\LCPredictWinner.genruntimeconfig.cache
+c:\DSA Practice\LCPredictWinner\obj\Debug\net8.0\ref\LCPredictWinner.dll

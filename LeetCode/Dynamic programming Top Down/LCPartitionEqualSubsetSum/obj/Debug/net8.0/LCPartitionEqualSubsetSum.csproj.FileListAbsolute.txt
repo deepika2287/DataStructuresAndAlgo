@@ -1,0 +1,15 @@
+c:\DSA Practice\LCPartitionEqualSubsetSum\bin\Debug\net8.0\LCPartitionEqualSubsetSum.exe
+c:\DSA Practice\LCPartitionEqualSubsetSum\bin\Debug\net8.0\LCPartitionEqualSubsetSum.deps.json
+c:\DSA Practice\LCPartitionEqualSubsetSum\bin\Debug\net8.0\LCPartitionEqualSubsetSum.runtimeconfig.json
+c:\DSA Practice\LCPartitionEqualSubsetSum\bin\Debug\net8.0\LCPartitionEqualSubsetSum.dll
+c:\DSA Practice\LCPartitionEqualSubsetSum\bin\Debug\net8.0\LCPartitionEqualSubsetSum.pdb
+c:\DSA Practice\LCPartitionEqualSubsetSum\obj\Debug\net8.0\LCPartitionEqualSubsetSum.GeneratedMSBuildEditorConfig.editorconfig
+c:\DSA Practice\LCPartitionEqualSubsetSum\obj\Debug\net8.0\LCPartitionEqualSubsetSum.AssemblyInfoInputs.cache
+c:\DSA Practice\LCPartitionEqualSubsetSum\obj\Debug\net8.0\LCPartitionEqualSubsetSum.AssemblyInfo.cs
+c:\DSA Practice\LCPartitionEqualSubsetSum\obj\Debug\net8.0\LCPartitionEqualSubsetSum.csproj.CoreCompileInputs.cache
+c:\DSA Practice\LCPartitionEqualSubsetSum\obj\Debug\net8.0\LCPartitionEqualSubsetSum.sourcelink.json
+c:\DSA Practice\LCPartitionEqualSubsetSum\obj\Debug\net8.0\LCPartitionEqualSubsetSum.dll
+c:\DSA Practice\LCPartitionEqualSubsetSum\obj\Debug\net8.0\refint\LCPartitionEqualSubsetSum.dll
+c:\DSA Practice\LCPartitionEqualSubsetSum\obj\Debug\net8.0\LCPartitionEqualSubsetSum.pdb
+c:\DSA Practice\LCPartitionEqualSubsetSum\obj\Debug\net8.0\LCPartitionEqualSubsetSum.genruntimeconfig.cache
+c:\DSA Practice\LCPartitionEqualSubsetSum\obj\Debug\net8.0\ref\LCPartitionEqualSubsetSum.dll

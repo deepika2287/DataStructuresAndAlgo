@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "LCSumOfAllSubSetsXORTotal/1.0.0": {
+        "runtime": {
+          "LCSumOfAllSubSetsXORTotal.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LCSumOfAllSubSetsXORTotal/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

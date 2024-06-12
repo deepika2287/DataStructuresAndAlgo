@@ -1,0 +1,15 @@
+c:\DSA Practice\LCPartitionArrayToMinimizeDiff\bin\Debug\net8.0\LCPartitionArrayToMinimizeDiff.exe
+c:\DSA Practice\LCPartitionArrayToMinimizeDiff\bin\Debug\net8.0\LCPartitionArrayToMinimizeDiff.deps.json
+c:\DSA Practice\LCPartitionArrayToMinimizeDiff\bin\Debug\net8.0\LCPartitionArrayToMinimizeDiff.runtimeconfig.json
+c:\DSA Practice\LCPartitionArrayToMinimizeDiff\bin\Debug\net8.0\LCPartitionArrayToMinimizeDiff.dll
+c:\DSA Practice\LCPartitionArrayToMinimizeDiff\bin\Debug\net8.0\LCPartitionArrayToMinimizeDiff.pdb
+c:\DSA Practice\LCPartitionArrayToMinimizeDiff\obj\Debug\net8.0\LCPartitionArrayToMinimizeDiff.GeneratedMSBuildEditorConfig.editorconfig
+c:\DSA Practice\LCPartitionArrayToMinimizeDiff\obj\Debug\net8.0\LCPartitionArrayToMinimizeDiff.AssemblyInfoInputs.cache
+c:\DSA Practice\LCPartitionArrayToMinimizeDiff\obj\Debug\net8.0\LCPartitionArrayToMinimizeDiff.AssemblyInfo.cs
+c:\DSA Practice\LCPartitionArrayToMinimizeDiff\obj\Debug\net8.0\LCPartitionArrayToMinimizeDiff.csproj.CoreCompileInputs.cache
+c:\DSA Practice\LCPartitionArrayToMinimizeDiff\obj\Debug\net8.0\LCPartitionArrayToMinimizeDiff.sourcelink.json
+c:\DSA Practice\LCPartitionArrayToMinimizeDiff\obj\Debug\net8.0\LCPartitionArrayToMinimizeDiff.dll
+c:\DSA Practice\LCPartitionArrayToMinimizeDiff\obj\Debug\net8.0\refint\LCPartitionArrayToMinimizeDiff.dll
+c:\DSA Practice\LCPartitionArrayToMinimizeDiff\obj\Debug\net8.0\LCPartitionArrayToMinimizeDiff.pdb
+c:\DSA Practice\LCPartitionArrayToMinimizeDiff\obj\Debug\net8.0\LCPartitionArrayToMinimizeDiff.genruntimeconfig.cache
+c:\DSA Practice\LCPartitionArrayToMinimizeDiff\obj\Debug\net8.0\ref\LCPartitionArrayToMinimizeDiff.dll

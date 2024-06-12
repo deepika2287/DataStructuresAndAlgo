@@ -1,0 +1,15 @@
+c:\DSA Practice\LCStudentAttendanceRecord2\bin\Debug\net8.0\LCStudentAttendanceRecord2.exe
+c:\DSA Practice\LCStudentAttendanceRecord2\bin\Debug\net8.0\LCStudentAttendanceRecord2.deps.json
+c:\DSA Practice\LCStudentAttendanceRecord2\bin\Debug\net8.0\LCStudentAttendanceRecord2.runtimeconfig.json
+c:\DSA Practice\LCStudentAttendanceRecord2\bin\Debug\net8.0\LCStudentAttendanceRecord2.dll
+c:\DSA Practice\LCStudentAttendanceRecord2\bin\Debug\net8.0\LCStudentAttendanceRecord2.pdb
+c:\DSA Practice\LCStudentAttendanceRecord2\obj\Debug\net8.0\LCStudentAttendanceRecord2.GeneratedMSBuildEditorConfig.editorconfig
+c:\DSA Practice\LCStudentAttendanceRecord2\obj\Debug\net8.0\LCStudentAttendanceRecord2.AssemblyInfoInputs.cache
+c:\DSA Practice\LCStudentAttendanceRecord2\obj\Debug\net8.0\LCStudentAttendanceRecord2.AssemblyInfo.cs
+c:\DSA Practice\LCStudentAttendanceRecord2\obj\Debug\net8.0\LCStudentAttendanceRecord2.csproj.CoreCompileInputs.cache
+c:\DSA Practice\LCStudentAttendanceRecord2\obj\Debug\net8.0\LCStudentAttendanceRecord2.sourcelink.json
+c:\DSA Practice\LCStudentAttendanceRecord2\obj\Debug\net8.0\LCStudentAttendanceRecord2.dll
+c:\DSA Practice\LCStudentAttendanceRecord2\obj\Debug\net8.0\refint\LCStudentAttendanceRecord2.dll
+c:\DSA Practice\LCStudentAttendanceRecord2\obj\Debug\net8.0\LCStudentAttendanceRecord2.pdb
+c:\DSA Practice\LCStudentAttendanceRecord2\obj\Debug\net8.0\LCStudentAttendanceRecord2.genruntimeconfig.cache
+c:\DSA Practice\LCStudentAttendanceRecord2\obj\Debug\net8.0\ref\LCStudentAttendanceRecord2.dll

@@ -1,0 +1,13 @@
+c:\DSA Practice\LCWordSquares\bin\Debug\netcoreapp3.1\LCWordSquares.exe
+c:\DSA Practice\LCWordSquares\bin\Debug\netcoreapp3.1\LCWordSquares.deps.json
+c:\DSA Practice\LCWordSquares\bin\Debug\netcoreapp3.1\LCWordSquares.runtimeconfig.json
+c:\DSA Practice\LCWordSquares\bin\Debug\netcoreapp3.1\LCWordSquares.runtimeconfig.dev.json
+c:\DSA Practice\LCWordSquares\bin\Debug\netcoreapp3.1\LCWordSquares.dll
+c:\DSA Practice\LCWordSquares\bin\Debug\netcoreapp3.1\LCWordSquares.pdb
+c:\DSA Practice\LCWordSquares\obj\Debug\netcoreapp3.1\LCWordSquares.csprojAssemblyReference.cache
+c:\DSA Practice\LCWordSquares\obj\Debug\netcoreapp3.1\LCWordSquares.AssemblyInfoInputs.cache
+c:\DSA Practice\LCWordSquares\obj\Debug\netcoreapp3.1\LCWordSquares.AssemblyInfo.cs
+c:\DSA Practice\LCWordSquares\obj\Debug\netcoreapp3.1\LCWordSquares.csproj.CoreCompileInputs.cache
+c:\DSA Practice\LCWordSquares\obj\Debug\netcoreapp3.1\LCWordSquares.dll
+c:\DSA Practice\LCWordSquares\obj\Debug\netcoreapp3.1\LCWordSquares.pdb
+c:\DSA Practice\LCWordSquares\obj\Debug\netcoreapp3.1\LCWordSquares.genruntimeconfig.cache

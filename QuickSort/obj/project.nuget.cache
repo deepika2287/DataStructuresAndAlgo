@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "wbEG4/2WTbSL9CDK6XEXRcGJC2BGxTnbvsE286kfx7H8poxN0v5eZNJpURBPMD7ashg7vi2xEKuQKywIUB6xyw==",
+  "dgSpecHash": "fNEXSVKzHJZA7m0H9KYbfzffV/yH395Chsg7htHHRZyXfXPRTBduG+KToHnY+jol+a7WDKVUlv1tgzTq436Csg==",
   "success": true,
-  "projectFilePath": "C:\\QuickSort\\QuickSort.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\DSA Practice\\QuickSort\\QuickSort.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vivek\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Vivek\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
   "logs": []
 }
