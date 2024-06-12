@@ -1,0 +1,13 @@
+c:\DSA Practice\LCWordSearch2\bin\Debug\netcoreapp3.1\LCWordSearch2.exe
+c:\DSA Practice\LCWordSearch2\bin\Debug\netcoreapp3.1\LCWordSearch2.deps.json
+c:\DSA Practice\LCWordSearch2\bin\Debug\netcoreapp3.1\LCWordSearch2.runtimeconfig.json
+c:\DSA Practice\LCWordSearch2\bin\Debug\netcoreapp3.1\LCWordSearch2.runtimeconfig.dev.json
+c:\DSA Practice\LCWordSearch2\bin\Debug\netcoreapp3.1\LCWordSearch2.dll
+c:\DSA Practice\LCWordSearch2\bin\Debug\netcoreapp3.1\LCWordSearch2.pdb
+c:\DSA Practice\LCWordSearch2\obj\Debug\netcoreapp3.1\LCWordSearch2.csprojAssemblyReference.cache
+c:\DSA Practice\LCWordSearch2\obj\Debug\netcoreapp3.1\LCWordSearch2.AssemblyInfoInputs.cache
+c:\DSA Practice\LCWordSearch2\obj\Debug\netcoreapp3.1\LCWordSearch2.AssemblyInfo.cs
+c:\DSA Practice\LCWordSearch2\obj\Debug\netcoreapp3.1\LCWordSearch2.csproj.CoreCompileInputs.cache
+c:\DSA Practice\LCWordSearch2\obj\Debug\netcoreapp3.1\LCWordSearch2.dll
+c:\DSA Practice\LCWordSearch2\obj\Debug\netcoreapp3.1\LCWordSearch2.pdb
+c:\DSA Practice\LCWordSearch2\obj\Debug\netcoreapp3.1\LCWordSearch2.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+c:\DSA Practice\LCSumOfAllSubSetsXORTotal\bin\Debug\net8.0\LCSumOfAllSubSetsXORTotal.exe
+c:\DSA Practice\LCSumOfAllSubSetsXORTotal\bin\Debug\net8.0\LCSumOfAllSubSetsXORTotal.deps.json
+c:\DSA Practice\LCSumOfAllSubSetsXORTotal\bin\Debug\net8.0\LCSumOfAllSubSetsXORTotal.runtimeconfig.json
+c:\DSA Practice\LCSumOfAllSubSetsXORTotal\bin\Debug\net8.0\LCSumOfAllSubSetsXORTotal.dll
+c:\DSA Practice\LCSumOfAllSubSetsXORTotal\bin\Debug\net8.0\LCSumOfAllSubSetsXORTotal.pdb
+c:\DSA Practice\LCSumOfAllSubSetsXORTotal\obj\Debug\net8.0\LCSumOfAllSubSetsXORTotal.GeneratedMSBuildEditorConfig.editorconfig
+c:\DSA Practice\LCSumOfAllSubSetsXORTotal\obj\Debug\net8.0\LCSumOfAllSubSetsXORTotal.AssemblyInfoInputs.cache
+c:\DSA Practice\LCSumOfAllSubSetsXORTotal\obj\Debug\net8.0\LCSumOfAllSubSetsXORTotal.AssemblyInfo.cs
+c:\DSA Practice\LCSumOfAllSubSetsXORTotal\obj\Debug\net8.0\LCSumOfAllSubSetsXORTotal.csproj.CoreCompileInputs.cache
+c:\DSA Practice\LCSumOfAllSubSetsXORTotal\obj\Debug\net8.0\LCSumOfAllSubSetsXORTotal.sourcelink.json
+c:\DSA Practice\LCSumOfAllSubSetsXORTotal\obj\Debug\net8.0\LCSumOfAllSubSetsXORTotal.dll
+c:\DSA Practice\LCSumOfAllSubSetsXORTotal\obj\Debug\net8.0\refint\LCSumOfAllSubSetsXORTotal.dll
+c:\DSA Practice\LCSumOfAllSubSetsXORTotal\obj\Debug\net8.0\LCSumOfAllSubSetsXORTotal.pdb
+c:\DSA Practice\LCSumOfAllSubSetsXORTotal\obj\Debug\net8.0\LCSumOfAllSubSetsXORTotal.genruntimeconfig.cache
+c:\DSA Practice\LCSumOfAllSubSetsXORTotal\obj\Debug\net8.0\ref\LCSumOfAllSubSetsXORTotal.dll

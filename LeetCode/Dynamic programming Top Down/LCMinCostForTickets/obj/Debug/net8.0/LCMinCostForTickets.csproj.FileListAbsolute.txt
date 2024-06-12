@@ -1,0 +1,15 @@
+c:\DSA Practice\LCMinCostForTickets\bin\Debug\net8.0\LCMinCostForTickets.exe
+c:\DSA Practice\LCMinCostForTickets\bin\Debug\net8.0\LCMinCostForTickets.deps.json
+c:\DSA Practice\LCMinCostForTickets\bin\Debug\net8.0\LCMinCostForTickets.runtimeconfig.json
+c:\DSA Practice\LCMinCostForTickets\bin\Debug\net8.0\LCMinCostForTickets.dll
+c:\DSA Practice\LCMinCostForTickets\bin\Debug\net8.0\LCMinCostForTickets.pdb
+c:\DSA Practice\LCMinCostForTickets\obj\Debug\net8.0\LCMinCostForTickets.GeneratedMSBuildEditorConfig.editorconfig
+c:\DSA Practice\LCMinCostForTickets\obj\Debug\net8.0\LCMinCostForTickets.AssemblyInfoInputs.cache
+c:\DSA Practice\LCMinCostForTickets\obj\Debug\net8.0\LCMinCostForTickets.AssemblyInfo.cs
+c:\DSA Practice\LCMinCostForTickets\obj\Debug\net8.0\LCMinCostForTickets.csproj.CoreCompileInputs.cache
+c:\DSA Practice\LCMinCostForTickets\obj\Debug\net8.0\LCMinCostForTickets.sourcelink.json
+c:\DSA Practice\LCMinCostForTickets\obj\Debug\net8.0\LCMinCostForTickets.dll
+c:\DSA Practice\LCMinCostForTickets\obj\Debug\net8.0\refint\LCMinCostForTickets.dll
+c:\DSA Practice\LCMinCostForTickets\obj\Debug\net8.0\LCMinCostForTickets.pdb
+c:\DSA Practice\LCMinCostForTickets\obj\Debug\net8.0\LCMinCostForTickets.genruntimeconfig.cache
+c:\DSA Practice\LCMinCostForTickets\obj\Debug\net8.0\ref\LCMinCostForTickets.dll

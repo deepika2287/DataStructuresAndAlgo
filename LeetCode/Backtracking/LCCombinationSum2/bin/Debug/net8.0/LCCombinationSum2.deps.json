@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "LCCombinationSum2/1.0.0": {
+        "runtime": {
+          "LCCombinationSum2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LCCombinationSum2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

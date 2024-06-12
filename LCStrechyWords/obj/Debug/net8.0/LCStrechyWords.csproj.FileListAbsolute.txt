@@ -1,0 +1,15 @@
+c:\DSA Practice\LCStrechyWords\bin\Debug\net8.0\LCStrechyWords.exe
+c:\DSA Practice\LCStrechyWords\bin\Debug\net8.0\LCStrechyWords.deps.json
+c:\DSA Practice\LCStrechyWords\bin\Debug\net8.0\LCStrechyWords.runtimeconfig.json
+c:\DSA Practice\LCStrechyWords\bin\Debug\net8.0\LCStrechyWords.dll
+c:\DSA Practice\LCStrechyWords\bin\Debug\net8.0\LCStrechyWords.pdb
+c:\DSA Practice\LCStrechyWords\obj\Debug\net8.0\LCStrechyWords.GeneratedMSBuildEditorConfig.editorconfig
+c:\DSA Practice\LCStrechyWords\obj\Debug\net8.0\LCStrechyWords.AssemblyInfoInputs.cache
+c:\DSA Practice\LCStrechyWords\obj\Debug\net8.0\LCStrechyWords.AssemblyInfo.cs
+c:\DSA Practice\LCStrechyWords\obj\Debug\net8.0\LCStrechyWords.csproj.CoreCompileInputs.cache
+c:\DSA Practice\LCStrechyWords\obj\Debug\net8.0\LCStrechyWords.sourcelink.json
+c:\DSA Practice\LCStrechyWords\obj\Debug\net8.0\LCStrechyWords.dll
+c:\DSA Practice\LCStrechyWords\obj\Debug\net8.0\refint\LCStrechyWords.dll
+c:\DSA Practice\LCStrechyWords\obj\Debug\net8.0\LCStrechyWords.pdb
+c:\DSA Practice\LCStrechyWords\obj\Debug\net8.0\LCStrechyWords.genruntimeconfig.cache
+c:\DSA Practice\LCStrechyWords\obj\Debug\net8.0\ref\LCStrechyWords.dll

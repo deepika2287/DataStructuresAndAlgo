@@ -1,0 +1,15 @@
+c:\DSA Practice\LCFindmaxGold\bin\Debug\net8.0\LCFindmaxGold.exe
+c:\DSA Practice\LCFindmaxGold\bin\Debug\net8.0\LCFindmaxGold.deps.json
+c:\DSA Practice\LCFindmaxGold\bin\Debug\net8.0\LCFindmaxGold.runtimeconfig.json
+c:\DSA Practice\LCFindmaxGold\bin\Debug\net8.0\LCFindmaxGold.dll
+c:\DSA Practice\LCFindmaxGold\bin\Debug\net8.0\LCFindmaxGold.pdb
+c:\DSA Practice\LCFindmaxGold\obj\Debug\net8.0\LCFindmaxGold.GeneratedMSBuildEditorConfig.editorconfig
+c:\DSA Practice\LCFindmaxGold\obj\Debug\net8.0\LCFindmaxGold.AssemblyInfoInputs.cache
+c:\DSA Practice\LCFindmaxGold\obj\Debug\net8.0\LCFindmaxGold.AssemblyInfo.cs
+c:\DSA Practice\LCFindmaxGold\obj\Debug\net8.0\LCFindmaxGold.csproj.CoreCompileInputs.cache
+c:\DSA Practice\LCFindmaxGold\obj\Debug\net8.0\LCFindmaxGold.sourcelink.json
+c:\DSA Practice\LCFindmaxGold\obj\Debug\net8.0\LCFindmaxGold.dll
+c:\DSA Practice\LCFindmaxGold\obj\Debug\net8.0\refint\LCFindmaxGold.dll
+c:\DSA Practice\LCFindmaxGold\obj\Debug\net8.0\LCFindmaxGold.pdb
+c:\DSA Practice\LCFindmaxGold\obj\Debug\net8.0\LCFindmaxGold.genruntimeconfig.cache
+c:\DSA Practice\LCFindmaxGold\obj\Debug\net8.0\ref\LCFindmaxGold.dll

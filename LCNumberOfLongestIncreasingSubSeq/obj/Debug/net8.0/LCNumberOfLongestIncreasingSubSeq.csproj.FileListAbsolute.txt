@@ -1,0 +1,15 @@
+c:\DSA Practice\LCNumberOfLongestIncreasingSubSeq\bin\Debug\net8.0\LCNumberOfLongestIncreasingSubSeq.exe
+c:\DSA Practice\LCNumberOfLongestIncreasingSubSeq\bin\Debug\net8.0\LCNumberOfLongestIncreasingSubSeq.deps.json
+c:\DSA Practice\LCNumberOfLongestIncreasingSubSeq\bin\Debug\net8.0\LCNumberOfLongestIncreasingSubSeq.runtimeconfig.json
+c:\DSA Practice\LCNumberOfLongestIncreasingSubSeq\bin\Debug\net8.0\LCNumberOfLongestIncreasingSubSeq.dll
+c:\DSA Practice\LCNumberOfLongestIncreasingSubSeq\bin\Debug\net8.0\LCNumberOfLongestIncreasingSubSeq.pdb
+c:\DSA Practice\LCNumberOfLongestIncreasingSubSeq\obj\Debug\net8.0\LCNumberOfLongestIncreasingSubSeq.GeneratedMSBuildEditorConfig.editorconfig
+c:\DSA Practice\LCNumberOfLongestIncreasingSubSeq\obj\Debug\net8.0\LCNumberOfLongestIncreasingSubSeq.AssemblyInfoInputs.cache
+c:\DSA Practice\LCNumberOfLongestIncreasingSubSeq\obj\Debug\net8.0\LCNumberOfLongestIncreasingSubSeq.AssemblyInfo.cs
+c:\DSA Practice\LCNumberOfLongestIncreasingSubSeq\obj\Debug\net8.0\LCNumberOfLongestIncreasingSubSeq.csproj.CoreCompileInputs.cache
+c:\DSA Practice\LCNumberOfLongestIncreasingSubSeq\obj\Debug\net8.0\LCNumberOfLongestIncreasingSubSeq.sourcelink.json
+c:\DSA Practice\LCNumberOfLongestIncreasingSubSeq\obj\Debug\net8.0\LCNumberOfLongestIncreasingSubSeq.dll
+c:\DSA Practice\LCNumberOfLongestIncreasingSubSeq\obj\Debug\net8.0\refint\LCNumberOfLongestIncreasingSubSeq.dll
+c:\DSA Practice\LCNumberOfLongestIncreasingSubSeq\obj\Debug\net8.0\LCNumberOfLongestIncreasingSubSeq.pdb
+c:\DSA Practice\LCNumberOfLongestIncreasingSubSeq\obj\Debug\net8.0\LCNumberOfLongestIncreasingSubSeq.genruntimeconfig.cache
+c:\DSA Practice\LCNumberOfLongestIncreasingSubSeq\obj\Debug\net8.0\ref\LCNumberOfLongestIncreasingSubSeq.dll

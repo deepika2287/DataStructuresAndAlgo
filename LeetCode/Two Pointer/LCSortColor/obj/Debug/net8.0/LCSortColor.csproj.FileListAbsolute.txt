@@ -1,0 +1,15 @@
+c:\DSA Practice\LCSortColor\bin\Debug\net8.0\LCSortColor.exe
+c:\DSA Practice\LCSortColor\bin\Debug\net8.0\LCSortColor.deps.json
+c:\DSA Practice\LCSortColor\bin\Debug\net8.0\LCSortColor.runtimeconfig.json
+c:\DSA Practice\LCSortColor\bin\Debug\net8.0\LCSortColor.dll
+c:\DSA Practice\LCSortColor\bin\Debug\net8.0\LCSortColor.pdb
+c:\DSA Practice\LCSortColor\obj\Debug\net8.0\LCSortColor.GeneratedMSBuildEditorConfig.editorconfig
+c:\DSA Practice\LCSortColor\obj\Debug\net8.0\LCSortColor.AssemblyInfoInputs.cache
+c:\DSA Practice\LCSortColor\obj\Debug\net8.0\LCSortColor.AssemblyInfo.cs
+c:\DSA Practice\LCSortColor\obj\Debug\net8.0\LCSortColor.csproj.CoreCompileInputs.cache
+c:\DSA Practice\LCSortColor\obj\Debug\net8.0\LCSortColor.sourcelink.json
+c:\DSA Practice\LCSortColor\obj\Debug\net8.0\LCSortColor.dll
+c:\DSA Practice\LCSortColor\obj\Debug\net8.0\refint\LCSortColor.dll
+c:\DSA Practice\LCSortColor\obj\Debug\net8.0\LCSortColor.pdb
+c:\DSA Practice\LCSortColor\obj\Debug\net8.0\LCSortColor.genruntimeconfig.cache
+c:\DSA Practice\LCSortColor\obj\Debug\net8.0\ref\LCSortColor.dll

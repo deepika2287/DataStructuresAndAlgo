@@ -1,0 +1,15 @@
+c:\DSA Practice\LCEvaluateBoolBinaryTree\bin\Debug\net8.0\LCEvaluateBoolBinaryTree.exe
+c:\DSA Practice\LCEvaluateBoolBinaryTree\bin\Debug\net8.0\LCEvaluateBoolBinaryTree.deps.json
+c:\DSA Practice\LCEvaluateBoolBinaryTree\bin\Debug\net8.0\LCEvaluateBoolBinaryTree.runtimeconfig.json
+c:\DSA Practice\LCEvaluateBoolBinaryTree\bin\Debug\net8.0\LCEvaluateBoolBinaryTree.dll
+c:\DSA Practice\LCEvaluateBoolBinaryTree\bin\Debug\net8.0\LCEvaluateBoolBinaryTree.pdb
+c:\DSA Practice\LCEvaluateBoolBinaryTree\obj\Debug\net8.0\LCEvaluateBoolBinaryTree.GeneratedMSBuildEditorConfig.editorconfig
+c:\DSA Practice\LCEvaluateBoolBinaryTree\obj\Debug\net8.0\LCEvaluateBoolBinaryTree.AssemblyInfoInputs.cache
+c:\DSA Practice\LCEvaluateBoolBinaryTree\obj\Debug\net8.0\LCEvaluateBoolBinaryTree.AssemblyInfo.cs
+c:\DSA Practice\LCEvaluateBoolBinaryTree\obj\Debug\net8.0\LCEvaluateBoolBinaryTree.csproj.CoreCompileInputs.cache
+c:\DSA Practice\LCEvaluateBoolBinaryTree\obj\Debug\net8.0\LCEvaluateBoolBinaryTree.sourcelink.json
+c:\DSA Practice\LCEvaluateBoolBinaryTree\obj\Debug\net8.0\LCEvaluateBoolBinaryTree.dll
+c:\DSA Practice\LCEvaluateBoolBinaryTree\obj\Debug\net8.0\refint\LCEvaluateBoolBinaryTree.dll
+c:\DSA Practice\LCEvaluateBoolBinaryTree\obj\Debug\net8.0\LCEvaluateBoolBinaryTree.pdb
+c:\DSA Practice\LCEvaluateBoolBinaryTree\obj\Debug\net8.0\LCEvaluateBoolBinaryTree.genruntimeconfig.cache
+c:\DSA Practice\LCEvaluateBoolBinaryTree\obj\Debug\net8.0\ref\LCEvaluateBoolBinaryTree.dll

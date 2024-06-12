@@ -1,0 +1,15 @@
+c:\DSA Practice\LCCombinationSum3\bin\Debug\net8.0\LCCombinationSum3.exe
+c:\DSA Practice\LCCombinationSum3\bin\Debug\net8.0\LCCombinationSum3.deps.json
+c:\DSA Practice\LCCombinationSum3\bin\Debug\net8.0\LCCombinationSum3.runtimeconfig.json
+c:\DSA Practice\LCCombinationSum3\bin\Debug\net8.0\LCCombinationSum3.dll
+c:\DSA Practice\LCCombinationSum3\bin\Debug\net8.0\LCCombinationSum3.pdb
+c:\DSA Practice\LCCombinationSum3\obj\Debug\net8.0\LCCombinationSum3.GeneratedMSBuildEditorConfig.editorconfig
+c:\DSA Practice\LCCombinationSum3\obj\Debug\net8.0\LCCombinationSum3.AssemblyInfoInputs.cache
+c:\DSA Practice\LCCombinationSum3\obj\Debug\net8.0\LCCombinationSum3.AssemblyInfo.cs
+c:\DSA Practice\LCCombinationSum3\obj\Debug\net8.0\LCCombinationSum3.csproj.CoreCompileInputs.cache
+c:\DSA Practice\LCCombinationSum3\obj\Debug\net8.0\LCCombinationSum3.sourcelink.json
+c:\DSA Practice\LCCombinationSum3\obj\Debug\net8.0\LCCombinationSum3.dll
+c:\DSA Practice\LCCombinationSum3\obj\Debug\net8.0\refint\LCCombinationSum3.dll
+c:\DSA Practice\LCCombinationSum3\obj\Debug\net8.0\LCCombinationSum3.pdb
+c:\DSA Practice\LCCombinationSum3\obj\Debug\net8.0\LCCombinationSum3.genruntimeconfig.cache
+c:\DSA Practice\LCCombinationSum3\obj\Debug\net8.0\ref\LCCombinationSum3.dll

@@ -1,0 +1,13 @@
+c:\DSA Practice\LCWordBreak\bin\Debug\netcoreapp3.1\LCWordBreak.exe
+c:\DSA Practice\LCWordBreak\bin\Debug\netcoreapp3.1\LCWordBreak.deps.json
+c:\DSA Practice\LCWordBreak\bin\Debug\netcoreapp3.1\LCWordBreak.runtimeconfig.json
+c:\DSA Practice\LCWordBreak\bin\Debug\netcoreapp3.1\LCWordBreak.runtimeconfig.dev.json
+c:\DSA Practice\LCWordBreak\bin\Debug\netcoreapp3.1\LCWordBreak.dll
+c:\DSA Practice\LCWordBreak\bin\Debug\netcoreapp3.1\LCWordBreak.pdb
+c:\DSA Practice\LCWordBreak\obj\Debug\netcoreapp3.1\LCWordBreak.csprojAssemblyReference.cache
+c:\DSA Practice\LCWordBreak\obj\Debug\netcoreapp3.1\LCWordBreak.AssemblyInfoInputs.cache
+c:\DSA Practice\LCWordBreak\obj\Debug\netcoreapp3.1\LCWordBreak.AssemblyInfo.cs
+c:\DSA Practice\LCWordBreak\obj\Debug\netcoreapp3.1\LCWordBreak.csproj.CoreCompileInputs.cache
+c:\DSA Practice\LCWordBreak\obj\Debug\netcoreapp3.1\LCWordBreak.dll
+c:\DSA Practice\LCWordBreak\obj\Debug\netcoreapp3.1\LCWordBreak.pdb
+c:\DSA Practice\LCWordBreak\obj\Debug\netcoreapp3.1\LCWordBreak.genruntimeconfig.cache

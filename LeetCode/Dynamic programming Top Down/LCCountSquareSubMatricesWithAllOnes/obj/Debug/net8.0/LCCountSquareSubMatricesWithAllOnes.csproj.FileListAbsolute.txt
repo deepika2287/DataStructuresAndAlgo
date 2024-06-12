@@ -1,0 +1,15 @@
+c:\DSA Practice\LCCountSquareSubMatricesWithAllOnes\bin\Debug\net8.0\LCCountSquareSubMatricesWithAllOnes.exe
+c:\DSA Practice\LCCountSquareSubMatricesWithAllOnes\bin\Debug\net8.0\LCCountSquareSubMatricesWithAllOnes.deps.json
+c:\DSA Practice\LCCountSquareSubMatricesWithAllOnes\bin\Debug\net8.0\LCCountSquareSubMatricesWithAllOnes.runtimeconfig.json
+c:\DSA Practice\LCCountSquareSubMatricesWithAllOnes\bin\Debug\net8.0\LCCountSquareSubMatricesWithAllOnes.dll
+c:\DSA Practice\LCCountSquareSubMatricesWithAllOnes\bin\Debug\net8.0\LCCountSquareSubMatricesWithAllOnes.pdb
+c:\DSA Practice\LCCountSquareSubMatricesWithAllOnes\obj\Debug\net8.0\LCCountSquareSubMatricesWithAllOnes.GeneratedMSBuildEditorConfig.editorconfig
+c:\DSA Practice\LCCountSquareSubMatricesWithAllOnes\obj\Debug\net8.0\LCCountSquareSubMatricesWithAllOnes.AssemblyInfoInputs.cache
+c:\DSA Practice\LCCountSquareSubMatricesWithAllOnes\obj\Debug\net8.0\LCCountSquareSubMatricesWithAllOnes.AssemblyInfo.cs
+c:\DSA Practice\LCCountSquareSubMatricesWithAllOnes\obj\Debug\net8.0\LCCountSquareSubMatricesWithAllOnes.csproj.CoreCompileInputs.cache
+c:\DSA Practice\LCCountSquareSubMatricesWithAllOnes\obj\Debug\net8.0\LCCountSquareSubMatricesWithAllOnes.sourcelink.json
+c:\DSA Practice\LCCountSquareSubMatricesWithAllOnes\obj\Debug\net8.0\LCCountSquareSubMatricesWithAllOnes.dll
+c:\DSA Practice\LCCountSquareSubMatricesWithAllOnes\obj\Debug\net8.0\refint\LCCountSquareSubMatricesWithAllOnes.dll
+c:\DSA Practice\LCCountSquareSubMatricesWithAllOnes\obj\Debug\net8.0\LCCountSquareSubMatricesWithAllOnes.pdb
+c:\DSA Practice\LCCountSquareSubMatricesWithAllOnes\obj\Debug\net8.0\LCCountSquareSubMatricesWithAllOnes.genruntimeconfig.cache
+c:\DSA Practice\LCCountSquareSubMatricesWithAllOnes\obj\Debug\net8.0\ref\LCCountSquareSubMatricesWithAllOnes.dll

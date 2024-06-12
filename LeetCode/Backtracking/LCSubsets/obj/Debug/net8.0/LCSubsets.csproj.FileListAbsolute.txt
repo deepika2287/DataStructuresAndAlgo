@@ -1,0 +1,15 @@
+c:\DSA Practice\LCSubsets\bin\Debug\net8.0\LCSubsets.exe
+c:\DSA Practice\LCSubsets\bin\Debug\net8.0\LCSubsets.deps.json
+c:\DSA Practice\LCSubsets\bin\Debug\net8.0\LCSubsets.runtimeconfig.json
+c:\DSA Practice\LCSubsets\bin\Debug\net8.0\LCSubsets.dll
+c:\DSA Practice\LCSubsets\bin\Debug\net8.0\LCSubsets.pdb
+c:\DSA Practice\LCSubsets\obj\Debug\net8.0\LCSubsets.GeneratedMSBuildEditorConfig.editorconfig
+c:\DSA Practice\LCSubsets\obj\Debug\net8.0\LCSubsets.AssemblyInfoInputs.cache
+c:\DSA Practice\LCSubsets\obj\Debug\net8.0\LCSubsets.AssemblyInfo.cs
+c:\DSA Practice\LCSubsets\obj\Debug\net8.0\LCSubsets.csproj.CoreCompileInputs.cache
+c:\DSA Practice\LCSubsets\obj\Debug\net8.0\LCSubsets.sourcelink.json
+c:\DSA Practice\LCSubsets\obj\Debug\net8.0\LCSubsets.dll
+c:\DSA Practice\LCSubsets\obj\Debug\net8.0\refint\LCSubsets.dll
+c:\DSA Practice\LCSubsets\obj\Debug\net8.0\LCSubsets.pdb
+c:\DSA Practice\LCSubsets\obj\Debug\net8.0\LCSubsets.genruntimeconfig.cache
+c:\DSA Practice\LCSubsets\obj\Debug\net8.0\ref\LCSubsets.dll

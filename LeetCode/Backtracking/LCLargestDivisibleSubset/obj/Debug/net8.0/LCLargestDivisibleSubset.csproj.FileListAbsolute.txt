@@ -1,0 +1,15 @@
+c:\DSA Practice\LCLargestDivisibleSubset\bin\Debug\net8.0\LCLargestDivisibleSubset.exe
+c:\DSA Practice\LCLargestDivisibleSubset\bin\Debug\net8.0\LCLargestDivisibleSubset.deps.json
+c:\DSA Practice\LCLargestDivisibleSubset\bin\Debug\net8.0\LCLargestDivisibleSubset.runtimeconfig.json
+c:\DSA Practice\LCLargestDivisibleSubset\bin\Debug\net8.0\LCLargestDivisibleSubset.dll
+c:\DSA Practice\LCLargestDivisibleSubset\bin\Debug\net8.0\LCLargestDivisibleSubset.pdb
+c:\DSA Practice\LCLargestDivisibleSubset\obj\Debug\net8.0\LCLargestDivisibleSubset.GeneratedMSBuildEditorConfig.editorconfig
+c:\DSA Practice\LCLargestDivisibleSubset\obj\Debug\net8.0\LCLargestDivisibleSubset.AssemblyInfoInputs.cache
+c:\DSA Practice\LCLargestDivisibleSubset\obj\Debug\net8.0\LCLargestDivisibleSubset.AssemblyInfo.cs
+c:\DSA Practice\LCLargestDivisibleSubset\obj\Debug\net8.0\LCLargestDivisibleSubset.csproj.CoreCompileInputs.cache
+c:\DSA Practice\LCLargestDivisibleSubset\obj\Debug\net8.0\LCLargestDivisibleSubset.sourcelink.json
+c:\DSA Practice\LCLargestDivisibleSubset\obj\Debug\net8.0\LCLargestDivisibleSubset.dll
+c:\DSA Practice\LCLargestDivisibleSubset\obj\Debug\net8.0\refint\LCLargestDivisibleSubset.dll
+c:\DSA Practice\LCLargestDivisibleSubset\obj\Debug\net8.0\LCLargestDivisibleSubset.pdb
+c:\DSA Practice\LCLargestDivisibleSubset\obj\Debug\net8.0\LCLargestDivisibleSubset.genruntimeconfig.cache
+c:\DSA Practice\LCLargestDivisibleSubset\obj\Debug\net8.0\ref\LCLargestDivisibleSubset.dll

@@ -1,0 +1,15 @@
+C:\DSA Practice\LCPalindromePartitioning\bin\Debug\net8.0\LCPalindromePartitioning.exe
+C:\DSA Practice\LCPalindromePartitioning\bin\Debug\net8.0\LCPalindromePartitioning.deps.json
+C:\DSA Practice\LCPalindromePartitioning\bin\Debug\net8.0\LCPalindromePartitioning.runtimeconfig.json
+C:\DSA Practice\LCPalindromePartitioning\bin\Debug\net8.0\LCPalindromePartitioning.dll
+C:\DSA Practice\LCPalindromePartitioning\bin\Debug\net8.0\LCPalindromePartitioning.pdb
+C:\DSA Practice\LCPalindromePartitioning\obj\Debug\net8.0\LCPalindromePartitioning.GeneratedMSBuildEditorConfig.editorconfig
+C:\DSA Practice\LCPalindromePartitioning\obj\Debug\net8.0\LCPalindromePartitioning.AssemblyInfoInputs.cache
+C:\DSA Practice\LCPalindromePartitioning\obj\Debug\net8.0\LCPalindromePartitioning.AssemblyInfo.cs
+C:\DSA Practice\LCPalindromePartitioning\obj\Debug\net8.0\LCPalindromePartitioning.csproj.CoreCompileInputs.cache
+C:\DSA Practice\LCPalindromePartitioning\obj\Debug\net8.0\LCPalindromePartitioning.sourcelink.json
+C:\DSA Practice\LCPalindromePartitioning\obj\Debug\net8.0\LCPalindromePartitioning.dll
+C:\DSA Practice\LCPalindromePartitioning\obj\Debug\net8.0\refint\LCPalindromePartitioning.dll
+C:\DSA Practice\LCPalindromePartitioning\obj\Debug\net8.0\LCPalindromePartitioning.pdb
+C:\DSA Practice\LCPalindromePartitioning\obj\Debug\net8.0\LCPalindromePartitioning.genruntimeconfig.cache
+C:\DSA Practice\LCPalindromePartitioning\obj\Debug\net8.0\ref\LCPalindromePartitioning.dll

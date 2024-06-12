@@ -1,0 +1,15 @@
+c:\DSA Practice\LCPerfectSquares\bin\Debug\net8.0\LCPerfectSquares.exe
+c:\DSA Practice\LCPerfectSquares\bin\Debug\net8.0\LCPerfectSquares.deps.json
+c:\DSA Practice\LCPerfectSquares\bin\Debug\net8.0\LCPerfectSquares.runtimeconfig.json
+c:\DSA Practice\LCPerfectSquares\bin\Debug\net8.0\LCPerfectSquares.dll
+c:\DSA Practice\LCPerfectSquares\bin\Debug\net8.0\LCPerfectSquares.pdb
+c:\DSA Practice\LCPerfectSquares\obj\Debug\net8.0\LCPerfectSquares.GeneratedMSBuildEditorConfig.editorconfig
+c:\DSA Practice\LCPerfectSquares\obj\Debug\net8.0\LCPerfectSquares.AssemblyInfoInputs.cache
+c:\DSA Practice\LCPerfectSquares\obj\Debug\net8.0\LCPerfectSquares.AssemblyInfo.cs
+c:\DSA Practice\LCPerfectSquares\obj\Debug\net8.0\LCPerfectSquares.csproj.CoreCompileInputs.cache
+c:\DSA Practice\LCPerfectSquares\obj\Debug\net8.0\LCPerfectSquares.sourcelink.json
+c:\DSA Practice\LCPerfectSquares\obj\Debug\net8.0\LCPerfectSquares.dll
+c:\DSA Practice\LCPerfectSquares\obj\Debug\net8.0\refint\LCPerfectSquares.dll
+c:\DSA Practice\LCPerfectSquares\obj\Debug\net8.0\LCPerfectSquares.pdb
+c:\DSA Practice\LCPerfectSquares\obj\Debug\net8.0\LCPerfectSquares.genruntimeconfig.cache
+c:\DSA Practice\LCPerfectSquares\obj\Debug\net8.0\ref\LCPerfectSquares.dll

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "+Zt4Y4wc2xgg3DRf3Na5mLKEbvs0HdkoA7BgOHypa70zNHFus7rud8EmF/5QaXvCizQ8obhYUETM9V/EKUUepQ==",
+  "success": true,
+  "projectFilePath": "c:\\DSA Practice\\LeetCode\\Dynamic programming Top Down\\LCCoinChange\\LCCoinChange.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vivek\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Vivek\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

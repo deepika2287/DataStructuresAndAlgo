@@ -1,0 +1,13 @@
+C:\DSA Practice\LCGenerateParantheses\bin\Debug\netcoreapp3.1\LCGenerateParantheses.exe
+C:\DSA Practice\LCGenerateParantheses\bin\Debug\netcoreapp3.1\LCGenerateParantheses.deps.json
+C:\DSA Practice\LCGenerateParantheses\bin\Debug\netcoreapp3.1\LCGenerateParantheses.runtimeconfig.json
+C:\DSA Practice\LCGenerateParantheses\bin\Debug\netcoreapp3.1\LCGenerateParantheses.runtimeconfig.dev.json
+C:\DSA Practice\LCGenerateParantheses\bin\Debug\netcoreapp3.1\LCGenerateParantheses.dll
+C:\DSA Practice\LCGenerateParantheses\bin\Debug\netcoreapp3.1\LCGenerateParantheses.pdb
+C:\DSA Practice\LCGenerateParantheses\obj\Debug\netcoreapp3.1\LCGenerateParantheses.csprojAssemblyReference.cache
+C:\DSA Practice\LCGenerateParantheses\obj\Debug\netcoreapp3.1\LCGenerateParantheses.AssemblyInfoInputs.cache
+C:\DSA Practice\LCGenerateParantheses\obj\Debug\netcoreapp3.1\LCGenerateParantheses.AssemblyInfo.cs
+C:\DSA Practice\LCGenerateParantheses\obj\Debug\netcoreapp3.1\LCGenerateParantheses.csproj.CoreCompileInputs.cache
+C:\DSA Practice\LCGenerateParantheses\obj\Debug\netcoreapp3.1\LCGenerateParantheses.dll
+C:\DSA Practice\LCGenerateParantheses\obj\Debug\netcoreapp3.1\LCGenerateParantheses.pdb
+C:\DSA Practice\LCGenerateParantheses\obj\Debug\netcoreapp3.1\LCGenerateParantheses.genruntimeconfig.cache

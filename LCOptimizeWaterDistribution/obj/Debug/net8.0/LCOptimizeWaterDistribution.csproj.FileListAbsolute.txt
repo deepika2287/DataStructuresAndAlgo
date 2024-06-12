@@ -1,0 +1,15 @@
+c:\DSA Practice\LCOptimizeWaterDistribution\bin\Debug\net8.0\LCOptimizeWaterDistribution.exe
+c:\DSA Practice\LCOptimizeWaterDistribution\bin\Debug\net8.0\LCOptimizeWaterDistribution.deps.json
+c:\DSA Practice\LCOptimizeWaterDistribution\bin\Debug\net8.0\LCOptimizeWaterDistribution.runtimeconfig.json
+c:\DSA Practice\LCOptimizeWaterDistribution\bin\Debug\net8.0\LCOptimizeWaterDistribution.dll
+c:\DSA Practice\LCOptimizeWaterDistribution\bin\Debug\net8.0\LCOptimizeWaterDistribution.pdb
+c:\DSA Practice\LCOptimizeWaterDistribution\obj\Debug\net8.0\LCOptimizeWaterDistribution.GeneratedMSBuildEditorConfig.editorconfig
+c:\DSA Practice\LCOptimizeWaterDistribution\obj\Debug\net8.0\LCOptimizeWaterDistribution.AssemblyInfoInputs.cache
+c:\DSA Practice\LCOptimizeWaterDistribution\obj\Debug\net8.0\LCOptimizeWaterDistribution.AssemblyInfo.cs
+c:\DSA Practice\LCOptimizeWaterDistribution\obj\Debug\net8.0\LCOptimizeWaterDistribution.csproj.CoreCompileInputs.cache
+c:\DSA Practice\LCOptimizeWaterDistribution\obj\Debug\net8.0\LCOptimizeWaterDistribution.sourcelink.json
+c:\DSA Practice\LCOptimizeWaterDistribution\obj\Debug\net8.0\LCOptimizeWaterDistribution.dll
+c:\DSA Practice\LCOptimizeWaterDistribution\obj\Debug\net8.0\refint\LCOptimizeWaterDistribution.dll
+c:\DSA Practice\LCOptimizeWaterDistribution\obj\Debug\net8.0\LCOptimizeWaterDistribution.pdb
+c:\DSA Practice\LCOptimizeWaterDistribution\obj\Debug\net8.0\LCOptimizeWaterDistribution.genruntimeconfig.cache
+c:\DSA Practice\LCOptimizeWaterDistribution\obj\Debug\net8.0\ref\LCOptimizeWaterDistribution.dll

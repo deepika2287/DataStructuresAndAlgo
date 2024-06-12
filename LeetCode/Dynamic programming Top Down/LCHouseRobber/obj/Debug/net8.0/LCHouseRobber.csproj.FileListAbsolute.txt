@@ -1,0 +1,15 @@
+c:\DSA Practice\LCHouseRobber\bin\Debug\net8.0\LCHouseRobber.exe
+c:\DSA Practice\LCHouseRobber\bin\Debug\net8.0\LCHouseRobber.deps.json
+c:\DSA Practice\LCHouseRobber\bin\Debug\net8.0\LCHouseRobber.runtimeconfig.json
+c:\DSA Practice\LCHouseRobber\bin\Debug\net8.0\LCHouseRobber.dll
+c:\DSA Practice\LCHouseRobber\bin\Debug\net8.0\LCHouseRobber.pdb
+c:\DSA Practice\LCHouseRobber\obj\Debug\net8.0\LCHouseRobber.GeneratedMSBuildEditorConfig.editorconfig
+c:\DSA Practice\LCHouseRobber\obj\Debug\net8.0\LCHouseRobber.AssemblyInfoInputs.cache
+c:\DSA Practice\LCHouseRobber\obj\Debug\net8.0\LCHouseRobber.AssemblyInfo.cs
+c:\DSA Practice\LCHouseRobber\obj\Debug\net8.0\LCHouseRobber.csproj.CoreCompileInputs.cache
+c:\DSA Practice\LCHouseRobber\obj\Debug\net8.0\LCHouseRobber.sourcelink.json
+c:\DSA Practice\LCHouseRobber\obj\Debug\net8.0\LCHouseRobber.dll
+c:\DSA Practice\LCHouseRobber\obj\Debug\net8.0\refint\LCHouseRobber.dll
+c:\DSA Practice\LCHouseRobber\obj\Debug\net8.0\LCHouseRobber.pdb
+c:\DSA Practice\LCHouseRobber\obj\Debug\net8.0\LCHouseRobber.genruntimeconfig.cache
+c:\DSA Practice\LCHouseRobber\obj\Debug\net8.0\ref\LCHouseRobber.dll
